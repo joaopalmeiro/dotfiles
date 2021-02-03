@@ -1,3 +1,6 @@
+export DOTFILES=$HOME/.dotfiles
+export ZSH=$HOME/.oh-my-zsh
+
 # To fully run PySpark locally.
 # This solved the problem of not being able to run unit tests with UDFs.
 # Source: https://stackoverflow.com/a/52230415
