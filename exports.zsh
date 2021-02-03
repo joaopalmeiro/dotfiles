@@ -1,4 +1,3 @@
-export DOTFILES=$HOME/.dotfiles
 export ZSH=$HOME/.oh-my-zsh
 
 # To fully run PySpark locally.
