@@ -16,8 +16,10 @@ A collection of dotfiles and related personal notes.
 - [iTerm2](https://iterm2.com/) (terminal emulator for macOS).
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle): `Brewfile` + `brew bundle` command.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) (Zsh framework).
+  - [`git` plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) (aliases + functions).
 
 ## References
 
 - Dries Vints' "[Getting Started with Dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles)" blog post.
 - [Dries's Dotfiles](https://github.com/driesvints/dotfiles).
+- [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles).
