@@ -1,12 +1,16 @@
-# Documentation: https://git-scm.com/docs/git-config.
-# INI file: https://en.wikipedia.org/wiki/INI_file.
-# configparser: https://docs.python.org/3/library/configparser.html.
+# Documentation: https://git-scm.com/docs/git-config
+# INI file: https://en.wikipedia.org/wiki/INI_file
+# configparser: https://docs.python.org/3/library/configparser.html
+[core]
+	# VS Code.
+	editor = code --wait
+
 [alias]
 	# Show verbose output about branches.
 	branches = branch --all
 
 	# Print the branches directly on the terminal (no pager).
-	# More info: https://stackoverflow.com/a/8883248.
+	# More info: https://stackoverflow.com/a/8883248
 	br = !git --no-pager branch
 
 	# List aliases.
