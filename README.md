@@ -25,6 +25,7 @@ A collection of dotfiles and related personal notes.
     - `"blinks"`
     - `"refined"`
 - `ls` with symlinks: `ls -al`.
+- `export JAVA_HOME=$(/usr/libexec/java_home)`.
 
 ## References
 
