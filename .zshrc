@@ -9,7 +9,8 @@ export DOTFILES=$HOME/.dotfiles
 # Path to the Oh My Zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
-ZSH_THEME="robbyrussell"
+# ZSH_THEME="robbyrussell"
+ZSH_THEME="refined"
 
 ZSH_CUSTOM=$DOTFILES
 

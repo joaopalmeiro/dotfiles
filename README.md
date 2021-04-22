@@ -23,7 +23,7 @@ A collection of dotfiles and related personal notes.
     - `"af-magic"`
     - `"agnoster"`
     - `"blinks"`
-    - `"refined"`
+    - `"refined"` (this theme is inspired by [Pure](https://github.com/sindresorhus/pure), a Zsh prompt created by Sindre Sorhus)
 - `ls` with symlinks: `ls -al`.
 - `export JAVA_HOME=$(/usr/libexec/java_home)`.
 
