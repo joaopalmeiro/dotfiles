@@ -1,6 +1,9 @@
 # Shortcuts
 alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
 
+# More info: https://curl.se/docs/manpage.html
+alias meteo="curl -4 http://wttr.in/Lisbon"
+
 # Print each PATH entry on a separate line.
 # Keep the single quotes.
 alias path='echo -e ${PATH//:/\\n}'

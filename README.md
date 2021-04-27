@@ -39,3 +39,4 @@ A collection of dotfiles and related personal notes.
   - [Pure](https://github.com/sindresorhus/pure).
 - "[When to wrap quotes around a shell variable?](https://stackoverflow.com/a/10067297)".
 - Kitty Giraudel's "[git-config](https://kittygiraudel.com/snippets/git-config/)" blog post.
+- [Thibault Duplessis's dotfiles](https://github.com/ornicar/dotfiles).
