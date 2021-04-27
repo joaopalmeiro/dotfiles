@@ -5,3 +5,9 @@ function gimail() {
 
 	echo "Previous email: $current_email\nNew email: $1"
 }
+
+# More info: https://man7.org/linux/man-pages/man1/mkdir.1.html
+take() {
+	mkdir -p $1
+	cd $1
+}
