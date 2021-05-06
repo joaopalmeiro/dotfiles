@@ -10,8 +10,8 @@ function gimail() {
 
 # More info: https://man7.org/linux/man-pages/man1/mkdir.1.html
 # take() {
-#     mkdir -p $1
-#     cd $1
+# 	mkdir -p $1
+# 	cd $1
 # }
 
 # Source: https://unix.stackexchange.com/a/125386
