@@ -31,6 +31,10 @@ A collection of dotfiles and related personal notes.
   - [Dim screen brightness of MBP, using AppleScript (and while using a secondary monitor)?](https://apple.stackexchange.com/a/285907).
   - [How to script brightness turning down and up?](https://apple.stackexchange.com/questions/334013/how-to-script-brightness-turning-down-and-up).
   - [AppleScript for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript).
+- [Amethyst](https://github.com/ianyh/Amethyst):
+  - Window manager for macOS.
+  - Tall layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>A</kbd> (lowercase `a`)
+  - Fullscreen layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>D</kbd> (lowercase `d`)
 
 ## References
 
