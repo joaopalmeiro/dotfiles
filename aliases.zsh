@@ -17,6 +17,6 @@ alias dotfiles="cd $DOTFILES"
 # Documentation: https://git-scm.com/docs/git-log
 alias gl="git log --oneline --decorate --color"
 
-# AppleScript
-alias dim="osascript apple_scripts/Dim.applescript"
-alias light="osascript apple_scripts/Light.applescript"
+# AppleScript (macOS)
+alias dim="osascript $DOTFILES/apple_scripts/Dim.applescript"
+alias light="osascript $DOTFILES/apple_scripts/Light.applescript"
