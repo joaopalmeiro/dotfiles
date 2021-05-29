@@ -26,6 +26,11 @@ A collection of dotfiles and related personal notes.
     - `"refined"` (this theme is inspired by [Pure](https://github.com/sindresorhus/pure), a Zsh prompt created by Sindre Sorhus)
 - `ls` with symlinks: `ls -al`.
 - `export JAVA_HOME=$(/usr/libexec/java_home)`.
+- AppleScript:
+  - [Automate tasks using AppleScript and Terminal on Mac](https://support.apple.com/en-gb/guide/terminal/trml1003/2.10/mac/10.15).
+  - [Dim screen brightness of MBP, using AppleScript (and while using a secondary monitor)?](https://apple.stackexchange.com/a/285907).
+  - [How to script brightness turning down and up?](https://apple.stackexchange.com/questions/334013/how-to-script-brightness-turning-down-and-up).
+  - [AppleScript for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript).
 
 ## References
 
