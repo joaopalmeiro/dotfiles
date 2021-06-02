@@ -35,6 +35,15 @@ A collection of dotfiles and related personal notes.
   - Window manager for macOS.
   - Tall layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>A</kbd> (lowercase `a`)
   - Fullscreen layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>D</kbd> (lowercase `d`)
+- [pandoc](https://pandoc.org/):
+  - [Formats](https://pandoc.org/MANUAL.html#general-options): `markdown` and `jira`.
+  - Install: `brew install pandoc` or `brew upgrade pandoc` ([source](https://pandoc.org/installing.html)).
+  - [Getting started with pandoc](https://pandoc.org/getting-started.html).
+  - [Jira/Confluence wiki markup](https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=all):
+    - Create a link to a user profile page: `[~username]`.
+  - Markdown parsers (Python):
+    - [mistune](https://github.com/lepture/mistune) ([renderers](https://mistune.readthedocs.io/en/latest/advanced.html#use-renderers)).
+    - [mistletoe](https://github.com/miyuchina/mistletoe).
 
 ## References
 

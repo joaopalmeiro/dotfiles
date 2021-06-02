@@ -19,3 +19,8 @@ mdir() {
 	mkdir -p -- "$1" &&
 		cd -P -- "$1"
 }
+
+# Markdown to Jira/Confluence wiki markup
+md2jira() {
+	pandoc "$1" -f markdown -t jira
+}
