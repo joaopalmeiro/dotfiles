@@ -37,7 +37,7 @@ A collection of dotfiles and related personal notes.
   - Fullscreen layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>D</kbd> (lowercase `d`)
 - [pandoc](https://pandoc.org/):
   - [Formats](https://pandoc.org/MANUAL.html#general-options): `markdown` and `jira`.
-  - Install: `brew install pandoc` or `brew upgrade pandoc` ([source](https://pandoc.org/installing.html)).
+  - [Install](https://pandoc.org/installing.html): `brew install pandoc` or `brew upgrade pandoc`.
   - [Getting started with pandoc](https://pandoc.org/getting-started.html).
   - [Jira/Confluence wiki markup](https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=all):
     - Create a link to a user profile page: `[~username]`.
