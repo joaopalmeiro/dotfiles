@@ -44,6 +44,7 @@ A collection of dotfiles and related personal notes.
   - Markdown parsers (Python):
     - [mistune](https://github.com/lepture/mistune) ([renderers](https://mistune.readthedocs.io/en/latest/advanced.html#use-renderers)).
     - [mistletoe](https://github.com/miyuchina/mistletoe).
+- Check AppleScript version: `osascript -e "version of AppleScript"` ([source](https://gist.github.com/SnoringFrog/c29c3180dcd92bd571b6)).
 
 ## References
 

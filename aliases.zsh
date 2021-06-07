@@ -20,3 +20,4 @@ alias gl="git log --oneline --decorate --color"
 # AppleScript (macOS)
 alias dim="osascript $DOTFILES/apple_scripts/Dim.applescript"
 alias light="osascript $DOTFILES/apple_scripts/Light.applescript"
+alias scroll="osascript $DOTFILES/apple_scripts/Scroll.applescript"
