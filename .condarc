@@ -13,3 +13,5 @@ show_channel_urls: True
 always_yes: True
 
 auto_activate_base: False
+
+auto_update_conda: False
