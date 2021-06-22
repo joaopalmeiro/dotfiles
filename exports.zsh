@@ -8,3 +8,5 @@ export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
 # Source: https://github.com/Kozea/CairoSVG/issues/207
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
+
+# export GITHUB_TOKEN=<TOKEN>

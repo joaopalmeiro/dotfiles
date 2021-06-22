@@ -45,6 +45,10 @@ A collection of dotfiles and related personal notes.
     - [mistune](https://github.com/lepture/mistune) ([renderers](https://mistune.readthedocs.io/en/latest/advanced.html#use-renderers)).
     - [mistletoe](https://github.com/miyuchina/mistletoe).
 - Check AppleScript version: `osascript -e "version of AppleScript"` ([source](https://gist.github.com/SnoringFrog/c29c3180dcd92bd571b6)).
+- Conda:
+  - [Uninstall](https://docs.continuum.io/anaconda/install/uninstall/) ([+](https://stackoverflow.com/a/62837862) `rm -rf ~/.anaconda_backup`).
+  - [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+  - [`.condarc` file](https://conda.io/docs/user-guide/configuration/use-condarc.html).
 
 ## References
 
@@ -59,3 +63,4 @@ A collection of dotfiles and related personal notes.
 - "[When to wrap quotes around a shell variable?](https://stackoverflow.com/a/10067297)".
 - Kitty Giraudel's "[git-config](https://kittygiraudel.com/snippets/git-config/)" blog post.
 - [Thibault Duplessis's dotfiles](https://github.com/ornicar/dotfiles).
+- [Aaron Meurer's dotfiles](https://github.com/asmeurer/dotfiles).
