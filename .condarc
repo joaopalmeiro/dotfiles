@@ -1,3 +1,15 @@
+# Path: ~/.condarc
+
 # More info:
 # - https://conda.io/docs/user-guide/configuration/use-condarc.html
-# - Run `conda info`
+# - Run `conda info` (to check the path of this file)
+# - Run `conda config --get` (to check the parameters specified in this file)
+# - Run `conda config --describe` (all configuration parameters available)
+
+# Validate: conda config --validate
+
+show_channel_urls: True
+
+always_yes: True
+
+auto_activate_base: False
