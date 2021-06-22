@@ -48,7 +48,7 @@ A collection of dotfiles and related personal notes.
 - Conda:
   - [Uninstall](https://docs.continuum.io/anaconda/install/uninstall/) ([+](https://stackoverflow.com/a/62837862) `rm -rf ~/.anaconda_backup`).
   - [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
-  - [`.condarc` file](https://conda.io/docs/user-guide/configuration/use-condarc.html).
+  - [`.condarc` file](https://conda.io/docs/user-guide/configuration/use-condarc.html) ([sample](https://conda.io/projects/conda/en/latest/user-guide/configuration/sample-condarc.html)).
 
 ## References
 
