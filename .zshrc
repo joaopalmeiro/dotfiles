@@ -18,3 +18,8 @@ ZSH_CUSTOM=$DOTFILES
 # plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
+
+# PATH
+
+# Sublime Text: https://www.sublimetext.com/docs/command_line.html (`subl --help`)
+# export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
