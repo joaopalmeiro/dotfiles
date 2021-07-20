@@ -13,6 +13,9 @@ alias reloadsh="source $HOME/.zshrc"
 # Directories
 alias dotfiles="cd $DOTFILES"
 
+# `ls` for directories
+alias lsd="ls -l | grep '^d'"
+
 # Git
 # Documentation: https://git-scm.com/docs/git-log
 alias gl="git log --oneline --decorate --color"

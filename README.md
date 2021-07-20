@@ -64,3 +64,4 @@ A collection of dotfiles and related personal notes.
 - Kitty Giraudel's "[git-config](https://kittygiraudel.com/snippets/git-config/)" blog post.
 - [Thibault Duplessis's dotfiles](https://github.com/ornicar/dotfiles).
 - [Aaron Meurer's dotfiles](https://github.com/asmeurer/dotfiles).
+- [Carlos Cuesta's dotfiles](https://github.com/carloscuesta/dotfiles).
