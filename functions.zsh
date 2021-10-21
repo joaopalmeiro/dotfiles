@@ -1,9 +1,9 @@
 function gimail() {
-	local current_email=$(git config user.email)
+    local current_email=$(git config user.email)
 
-	git config user.email $1
+    git config user.email $1
 
-	echo "Previous email: $current_email\nNew email: $1"
+    echo "Previous email: $current_email\nNew email: $1"
 }
 
 # `mkdir` + `cd`
@@ -16,11 +16,11 @@ function gimail() {
 
 # Source: https://unix.stackexchange.com/a/125386
 mdir() {
-	mkdir -p -- "$1" &&
-		cd -P -- "$1"
+    mkdir -p -- "$1" &&
+        cd -P -- "$1"
 }
 
 # Markdown to Jira/Confluence wiki markup
 md2jira() {
-	pandoc "$1" -f markdown -t jira
+    pandoc "$1" -f markdown -t jira
 }

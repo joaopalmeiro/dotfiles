@@ -1,7 +1,7 @@
 " https://github.com/j1z0/vim-config/blob/master/vimrc
 " Vundle
 set nocompatible
-filetype off              
+filetype off
 
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()

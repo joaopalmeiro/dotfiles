@@ -56,6 +56,11 @@ A collection of dotfiles and related personal notes.
   - Node.js:
     - [nvm](https://github.com/nvm-sh/nvm).
     - [npmrc](https://github.com/deoxxa/npmrc) (for `.npmrc` files).
+- [EditorConfig](https://editorconfig.org/):
+  - [Svelte](https://github.com/sveltejs/svelte/blob/master/.editorconfig), [SvelteKit](https://github.com/sveltejs/kit/blob/master/.editorconfig), [sites](https://github.com/sveltejs/sites/blob/master/.editorconfig), and [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte/blob/main/.editorconfig):
+    - `indent_style = tab`.
+    - `indent_size = 2`.
+    - `[package.json]` + `indent_style = space`.
 
 ## References
 
