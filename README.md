@@ -61,6 +61,7 @@ A collection of dotfiles and related personal notes.
     - `indent_style = tab`.
     - `indent_size = 2`.
     - `[package.json]` + `indent_style = space`.
+- [ShellCheck](https://github.com/koalaman/shellcheck) ([rules](https://github.com/koalaman/shellcheck/wiki/Checks)).
 
 ## References
 
