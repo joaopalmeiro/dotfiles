@@ -10,3 +10,11 @@ export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
 # export GITHUB_TOKEN=<TOKEN>
+
+# Homebrew/brew
+# Run `brew --config` to check that the
+# environment variables are set as expected.
+# Documentation:
+# - https://docs.brew.sh/Manpage#environment
+# - https://github.com/Homebrew/brew/blob/master/Library/Homebrew/manpages/brew.1.md.erb
+export HOMEBREW_NO_AUTO_UPDATE=1

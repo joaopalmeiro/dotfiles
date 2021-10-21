@@ -51,6 +51,11 @@ A collection of dotfiles and related personal notes.
   - [`.condarc` file](https://conda.io/docs/user-guide/configuration/use-condarc.html) ([sample](https://conda.io/projects/conda/en/latest/user-guide/configuration/sample-condarc.html)).
 - Vim:
   - `cp ~/.vimrc ~/Documents/GitHub/dotfiles`.
+- Version managers:
+  - Python: [pyenv](https://github.com/pyenv/pyenv).
+  - Node.js:
+    - [nvm](https://github.com/nvm-sh/nvm).
+    - [npmrc](https://github.com/deoxxa/npmrc) (for `.npmrc` files).
 
 ## References
 
