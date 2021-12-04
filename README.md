@@ -61,7 +61,9 @@ A collection of dotfiles and related personal notes.
     - `indent_style = tab`.
     - `indent_size = 2`.
     - `[package.json]` + `indent_style = space`.
-- [ShellCheck](https://github.com/koalaman/shellcheck) ([rules](https://github.com/koalaman/shellcheck/wiki/Checks)).
+- [ShellCheck](https://github.com/koalaman/shellcheck):
+  - [Rules](https://github.com/koalaman/shellcheck/wiki/Checks).
+  - `brew install shellcheck`.
 - Intuos Draw (2015):
   - Pen tablet.
   - Get the drivers [here](https://www.wacom.com/en-ca/support/product-support/drivers). It works on Windows 10 and macOS Catalina (version 10.15.7).
