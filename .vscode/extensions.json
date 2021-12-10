@@ -1,3 +1,7 @@
 {
-  "recommendations": ["idleberg.applescript", "timonwong.shellcheck"]
+  "recommendations": [
+    "idleberg.applescript",
+    "timonwong.shellcheck",
+    "nhoizey.gremlins"
+  ]
 }

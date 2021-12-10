@@ -72,7 +72,7 @@ A collection of dotfiles and related personal notes.
 
 - Dries Vints' "[Getting Started with Dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles)" blog post.
 - [Dries's Dotfiles](https://github.com/driesvints/dotfiles).
-- [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles).
+- [Mathias's dotfiles](https://github.com/mathiasbynens/dotfiles).
 - [Cobalt2 for iTerm2 and ZSH](https://github.com/wesbos/Cobalt2-iterm).
 - Zsh prompts:
   - [typewritten](https://github.com/reobin/typewritten).
