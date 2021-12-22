@@ -24,6 +24,7 @@ A collection of dotfiles and related personal notes.
     - `"agnoster"`
     - `"blinks"`
     - `"refined"` (this theme is inspired by [Pure](https://github.com/sindresorhus/pure), a Zsh prompt created by Sindre Sorhus)
+  - [Uninstall](https://github.com/ohmyzsh/ohmyzsh#uninstalling-oh-my-zsh).
 - `ls` with symlinks: `ls -al`.
 - `export JAVA_HOME=$(/usr/libexec/java_home)`.
 - AppleScript:
@@ -67,6 +68,10 @@ A collection of dotfiles and related personal notes.
 - Intuos Draw (2015):
   - Pen tablet.
   - Get the drivers [here](https://www.wacom.com/en-ca/support/product-support/drivers). It works on Windows 10 and macOS Catalina (version 10.15.7).
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting):
+  - [Install](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md).
+  - `brew install/uninstall zsh-syntax-highlighting`.
+- [Starship](https://starship.rs/): customizable prompt.
 
 ## References
 
