@@ -70,6 +70,7 @@ A collection of dotfiles and related personal notes.
   - [Rules](https://github.com/koalaman/shellcheck/wiki/Checks).
   - `brew install shellcheck`.
   - `brew update` + `brew upgrade shellcheck`.
+  - `shellcheck --version`.
 - Intuos Draw (2015):
   - Pen tablet.
   - Get the drivers [here](https://www.wacom.com/en-ca/support/product-support/drivers). It works on Windows 10 and macOS Catalina (version 10.15.7).

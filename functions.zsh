@@ -15,6 +15,7 @@ function gimail() {
 # }
 
 # Source: https://unix.stackexchange.com/a/125386
+# Alternative: `mcd()` (https://github.com/carloscuesta/dotfiles/blob/master/.functions)
 mdir() {
     mkdir -p -- "$1" &&
         cd -P -- "$1"
