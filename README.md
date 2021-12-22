@@ -7,13 +7,17 @@ A collection of dotfiles and related personal notes.
 1. Clone this repo to `~/.dotfiles`:
    - `cd && git clone https://github.com/joaopalmeiro/dotfiles.git .dotfiles && cd -`
    - `cd && rm -rf .dotfiles && git clone https://github.com/joaopalmeiro/dotfiles.git .dotfiles && cd -`
-2. Install [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh).
+2. Optional: Install [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh).
 3. Run `install.sh`:
    - `cd ~/.dotfiles && sh install.sh && cd -`
 4. Restart the command line.
 
 ## Notes
 
+- Current terminal emulator:
+  - ~~[iTerm2](https://iterm2.com/)~~
+  - [Warp](https://www.warp.dev/)
+- Install [Volta](https://docs.volta.sh/guide/getting-started) for JS-based development.
 - [iTerm2](https://iterm2.com/) (terminal emulator for macOS).
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle): `Brewfile` + `brew bundle` command.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) (Zsh framework).
@@ -65,6 +69,7 @@ A collection of dotfiles and related personal notes.
 - [ShellCheck](https://github.com/koalaman/shellcheck):
   - [Rules](https://github.com/koalaman/shellcheck/wiki/Checks).
   - `brew install shellcheck`.
+  - `brew update` + `brew upgrade shellcheck`.
 - Intuos Draw (2015):
   - Pen tablet.
   - Get the drivers [here](https://www.wacom.com/en-ca/support/product-support/drivers). It works on Windows 10 and macOS Catalina (version 10.15.7).
