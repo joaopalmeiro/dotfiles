@@ -2,7 +2,7 @@
 
 ## Software
 
-- [Steam](https://store.steampowered.com/).
+- [Chocolatey](https://chocolatey.org/): Package manager for Windows/_[Homebrew](https://brew.sh/) for Windows_.
 
 ## Notes
 
