@@ -8,6 +8,7 @@
   - Gaming: [Steam](https://store.steampowered.com/)
   - Git client: [GitHub Desktop](https://desktop.github.com/)
   - Text editor: [Visual Studio Code](https://code.visualstudio.com/)
+  - Media player: [VLC](https://www.videolan.org/vlc/)
   - From Microsoft Store:
     - Gaming: [Xbox](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
     - Terminal: [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) ([repo](https://github.com/microsoft/terminal))
