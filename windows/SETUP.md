@@ -53,6 +53,12 @@ code --list-extensions
 }
 ```
 
+### 1Password
+
+- Change language: _⋮_ > _Configurações..._ > _Avançado_ > _Idioma:_ > _Inglês (US)_
+- _⋮_ > _Settings..._ > _Appearance_ > _Theme:_ > _Dark_
+- _⋮_ > _Settings..._ > _Advanced_ > Uncheck _Install updates automatically_
+
 ## References
 
 - [VSC Lite](https://kittygiraudel.com/snippets/vsc-lite/) by Kitty Giraudel.
