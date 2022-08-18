@@ -33,10 +33,19 @@
 
 ### Homebrew
 
-- Install dependencies:
-  - `brew bundle list --file=./Brewfile`
-  - `brew bundle install --file=./Brewfile --no-lock`
-  - `brew bundle check`
+Install dependencies:
+
+```bash
+brew bundle list --file=./Brewfile
+```
+
+```bash
+brew bundle install --file=./Brewfile --no-lock
+```
+
+```bash
+brew bundle check
+```
 
 ### Figma
 
