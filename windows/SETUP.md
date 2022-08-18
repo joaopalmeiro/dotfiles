@@ -1,6 +1,6 @@
 # Setup
 
-## Windows 10
+## Windows 10 (August 2022)
 
 - Install:
   - Browser: [Google Chrome](https://www.google.com/chrome/) (and set it as the default browser)
