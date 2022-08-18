@@ -44,7 +44,7 @@ brew bundle install --file=./Brewfile --no-lock
 ```
 
 ```bash
-brew bundle check
+brew bundle check --file=./Brewfile
 ```
 
 ### Figma
