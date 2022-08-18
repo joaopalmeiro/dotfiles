@@ -31,6 +31,20 @@
 
 - HERE
 
+### Homebrew
+
+- Install dependencies:
+  - `brew bundle list --file=./Brewfile`
+  - `brew bundle install --file=./Brewfile --no-lock`
+  - `brew bundle check`
+
+### Figma
+
+- After opening a file:
+  - _Main menu_ > _Preferences_ > Uncheck _Snap to pixel grid_
+  - _Main menu_ > _Preferences_ > _Theme_ > _Light_
+
 ## References
 
-- [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/) by swyx.
+- [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/) by swyx
+- [My macOS Development Environment: iTerm2, oh-my-zsh, and VS Code](https://josh-ops.com/posts/my-macos-development-environment/) by Josh Johanning ([repo](https://github.com/joshjohanning/dotfiles))
