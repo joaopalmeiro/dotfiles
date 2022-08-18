@@ -12,12 +12,12 @@
     - Gaming: [Xbox](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
     - Terminal: [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) ([repo](https://github.com/microsoft/terminal))
 
-### Instructions
+### Windows
 
 - Change the default browser ([source](https://support.google.com/chrome/answer/95417)):
   - _Iniciar_ > _Definições_ > _Aplicações_ > _Aplicações predefinidas_ > _Browser_
 
-### Commands
+### Visual Studio Code
 
 To install VS Code extensions via Windows Terminal + Windows PowerShell ([source](https://stackoverflow.com/a/72988250)):
 
@@ -29,4 +29,12 @@ code `
 
 ```PowerShell
 code --list-extensions
+```
+
+#### User/_Global_ Settings
+
+`Ctrl`+`Shift`+`P` > _Preferences: Open Settings (JSON)_:
+
+```json
+
 ```
