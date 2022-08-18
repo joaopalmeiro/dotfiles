@@ -19,10 +19,13 @@
 
 ### Visual Studio Code
 
+#### Extensions
+
 To install VS Code extensions via Windows Terminal + Windows PowerShell ([source](https://stackoverflow.com/a/72988250)):
 
 ```PowerShell
 code `
+--install-extension EditorConfig.EditorConfig `
 --install-extension esbenp.prettier-vscode `
 --install-extension nhoizey.gremlins
 ```
@@ -33,8 +36,21 @@ code --list-extensions
 
 #### User/_Global_ Settings
 
-`Ctrl`+`Shift`+`P` > _Preferences: Open Settings (JSON)_:
+`Ctrl`+`Shift`+`P` > _Preferences: Open Settings (JSON)_ ([source](https://code.visualstudio.com/docs/getstarted/settings#_settingsjson)):
 
-```json
-
+```jsonc
+{
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "git.enabled": false,
+  "update.showReleaseNotes": false,
+  "workbench.enableExperiments": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false
+}
 ```
+
+## References
+
+- [VSC Lite](https://kittygiraudel.com/snippets/vsc-lite/) by Kitty Giraudel.
