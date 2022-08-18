@@ -61,4 +61,4 @@ code --list-extensions
 
 ## References
 
-- [VSC Lite](https://kittygiraudel.com/snippets/vsc-lite/) by Kitty Giraudel.
+- [VSC Lite](https://kittygiraudel.com/snippets/vsc-lite/) by Kitty Giraudel
