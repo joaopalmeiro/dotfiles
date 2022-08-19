@@ -52,6 +52,7 @@ A collection of dotfiles and related personal notes.
     - [nvm](https://github.com/nvm-sh/nvm) ([used by Tania Rascia](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/#nodejs)).
     - [npmrc](https://github.com/deoxxa/npmrc) (for `.npmrc` files).
     - [fnm](https://github.com/Schniz/fnm) ([used by swyx](https://www.swyx.io/new-mac-setup/#set-up-appsenvironments)).
+    - [Volta](https://volta.sh/).
   - R: [rig](https://github.com/r-lib/rig).
 - [EditorConfig](https://editorconfig.org/):
   - [Svelte](https://github.com/sveltejs/svelte/blob/master/.editorconfig), [SvelteKit](https://github.com/sveltejs/kit/blob/master/.editorconfig), [sites](https://github.com/sveltejs/sites/blob/master/.editorconfig), and [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte/blob/main/.editorconfig):

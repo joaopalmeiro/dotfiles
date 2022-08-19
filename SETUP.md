@@ -98,6 +98,10 @@ which python
 
 - _⋮_ > _Settings_ > _Features_ > Uncheck _Restore windows, tabs, and panes on startup_
 
+### VS Code
+
+- _EXPLORER_ > _…_ > Check _Open Editors_ + Uncheck _Outline_ and _Timeline_
+
 ## References
 
 - [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/) by swyx
