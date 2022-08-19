@@ -58,7 +58,23 @@ After installing these dependencies, configure pyenv and pipx.
 
 ### Python (via pyenv)
 
-- HERE
+Install [Python 3.7](https://docs.python.org/3.7/):
+
+```bash
+pyenv install 3.7.12
+```
+
+```bash
+pyenv global 3.7.12
+```
+
+```bash
+python --version
+```
+
+```bash
+which python
+```
 
 ### Figma
 
@@ -76,7 +92,11 @@ After installing these dependencies, configure pyenv and pipx.
 ### Dotfiles
 
 - Copy the `.condarc` file to `~/.condarc`
-- Copy the contents of the `.zshrc` file to `~/.zshrc`
+- Copy the contents of the `.zshrc` file to `~/.zshrc` (`code ~/.zshrc`)
+
+### Warp
+
+- _⋮_ > _Settings_ > _Features_ > Uncheck _Restore windows, tabs, and panes on startup_
 
 ## References
 
