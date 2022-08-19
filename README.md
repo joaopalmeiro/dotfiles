@@ -2,16 +2,6 @@
 
 A collection of dotfiles and related personal notes.
 
-## Quickstart
-
-1. Clone this repo to `~/.dotfiles`:
-   - `cd && git clone https://github.com/joaopalmeiro/dotfiles.git .dotfiles && cd -`
-   - `cd && rm -rf .dotfiles && git clone https://github.com/joaopalmeiro/dotfiles.git .dotfiles && cd -`
-2. Optional: Install [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh).
-3. Run `install.sh`:
-   - `cd ~/.dotfiles && sh install.sh && cd -`
-4. Restart the command line.
-
 ## Notes
 
 - Current terminal emulator:
@@ -59,8 +49,10 @@ A collection of dotfiles and related personal notes.
 - Version managers:
   - Python: [pyenv](https://github.com/pyenv/pyenv).
   - Node.js:
-    - [nvm](https://github.com/nvm-sh/nvm).
+    - [nvm](https://github.com/nvm-sh/nvm) ([used by Tania Rascia](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/#nodejs)).
     - [npmrc](https://github.com/deoxxa/npmrc) (for `.npmrc` files).
+    - [fnm](https://github.com/Schniz/fnm) ([used by swyx](https://www.swyx.io/new-mac-setup/#set-up-appsenvironments)).
+  - R: [rig](https://github.com/r-lib/rig).
 - [EditorConfig](https://editorconfig.org/):
   - [Svelte](https://github.com/sveltejs/svelte/blob/master/.editorconfig), [SvelteKit](https://github.com/sveltejs/kit/blob/master/.editorconfig), [sites](https://github.com/sveltejs/sites/blob/master/.editorconfig), and [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte/blob/main/.editorconfig):
     - `indent_style = tab`.
@@ -78,6 +70,8 @@ A collection of dotfiles and related personal notes.
   - [Install](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md).
   - `brew install/uninstall zsh-syntax-highlighting`.
 - [Starship](https://starship.rs/): customizable prompt.
+- [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236).
+- Restart shell: `exec "$SHELL"` ([source](https://github.com/pyenv/pyenv#restart-your-shell)).
 
 ## References
 
