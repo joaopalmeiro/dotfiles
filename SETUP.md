@@ -8,7 +8,7 @@
   - Text editor: [Visual Studio Code](https://code.visualstudio.com/) ([install the CLI as well](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line))
   - Design: [Figma](https://www.figma.com/) (log in and install the desktop app)
   - Music: [Spotify](https://www.spotify.com/pt-en/download/mac/)
-  - From Terminal:
+  - From Terminal (before installing these dependencies, take care of the `Terminal` section first):
     - Package manager: [Homebrew](https://brew.sh/) (after installing it, run the commands that appear at the end)
     - Package and environment manager: [Miniconda](https://docs.conda.io/en/latest/miniconda.html#macos-installers)
 
