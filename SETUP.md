@@ -8,8 +8,10 @@
   - Text editor: [Visual Studio Code](https://code.visualstudio.com/) ([install the CLI as well](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line))
   - Design: [Figma](https://www.figma.com/) (log in and install the desktop app)
   - Music: [Spotify](https://www.spotify.com/pt-en/download/mac/)
-  - From Terminal (before installing these dependencies, take care of the `Terminal` section first):
-    - Package manager: [Homebrew](https://brew.sh/) (after installing it, run the commands that appear at the end)
+  - From Terminal (before installing these dependencies, check the `Terminal` section first):
+    - Package manager: [Homebrew](https://brew.sh/):
+      - After installing it, run the commands that appear at the end
+      - Check the `Homebrew` section
     - Package and environment manager: [Miniconda](https://docs.conda.io/en/latest/miniconda.html#macos-installers)
 
 ### [System Preferences](https://support.apple.com/guide/mac-help/change-system-preferences-mh15217/mac)
@@ -51,6 +53,12 @@ brew bundle install --file=./Brewfile --no-lock
 ```bash
 brew bundle check --file=./Brewfile
 ```
+
+After installing these dependencies, configure pyenv and pipx.
+
+### Python (via pyenv)
+
+- HERE
 
 ### Figma
 
