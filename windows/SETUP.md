@@ -10,6 +10,7 @@
   - Text editor: [Visual Studio Code](https://code.visualstudio.com/)
   - Media player: [VLC](https://www.videolan.org/vlc/)
   - Password manager: [1Password](https://1password.com/downloads/windows/) + [Chrome extension](https://1password.com/downloads/mac/#browsers)
+  - Music: [Spotify](https://www.spotify.com/pt-en/download/)
   - From Microsoft Store:
     - Gaming: [Xbox](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
     - Terminal: [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) ([repo](https://github.com/microsoft/terminal))
@@ -55,9 +56,9 @@ code --list-extensions
 
 ### 1Password
 
-- Change language: _⋮_ > _Configurações..._ > _Avançado_ > _Idioma:_ > _Inglês (US)_
-- _⋮_ > _Settings..._ > _Appearance_ > _Theme:_ > _Dark_
-- _⋮_ > _Settings..._ > _Advanced_ > Uncheck _Install updates automatically_
+- Change language: _⋮_ > _Configurações…_ > _Avançado_ > _Idioma:_ > _Inglês (US)_
+- _⋮_ > _Settings…_ > _Appearance_ > _Theme:_ > _Dark_
+- _⋮_ > _Settings…_ > _Advanced_ > Uncheck _Install updates automatically_
 
 ## References
 

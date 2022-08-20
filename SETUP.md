@@ -7,7 +7,8 @@
   - Git client: [GitHub Desktop](https://desktop.github.com/)
   - Text editor: [Visual Studio Code](https://code.visualstudio.com/) ([install the CLI as well](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line))
   - Design: [Figma](https://www.figma.com/) (log in and install the desktop app)
-  - Music: [Spotify](https://www.spotify.com/pt-en/download/mac/)
+  - Music: [Spotify](https://www.spotify.com/pt-en/download/)
+  - Screenshots: [Xnapper](https://xnapper.com/)
   - From Terminal (before installing these dependencies, check the `Terminal` section first):
     - Package manager: [Homebrew](https://brew.sh/):
       - After installing it, run the commands that appear at the end
@@ -84,7 +85,7 @@ which python
 
 ### Finder
 
-- _Finder_ > _Preferences_ > _Advanced_ > Check _Show all filename extensions_
+- _Finder_ > _Preferences…_ > _Advanced_ > Check _Show all filename extensions_
 - _View_ > Check _Show Path Bar_ ([source](https://www.alphr.com/show-path-finder-title-bar/))
 - In a Finder window:
   - Show [hidden files/dotfiles](https://en.wikipedia.org/wiki/Hidden_file_and_hidden_directory) ([source](https://setapp.com/how-to/show-hidden-files-on-mac)): `Command`+`Shift`+`.`
@@ -101,6 +102,11 @@ which python
 ### VS Code
 
 - _EXPLORER_ > _…_ > Check _Open Editors_ + Uncheck _Outline_ and _Timeline_
+
+### Xnapper
+
+- _Preferences…_ > _Default save location:_ > _Change…_ > `~/Documents`
+- _Preferences…_ > _Change Shortcut:_ > _Take screenshot and open editor_ > `Command`+`Shift`+`9`
 
 ## References
 
