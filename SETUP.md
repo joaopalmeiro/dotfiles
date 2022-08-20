@@ -14,6 +14,7 @@
       - After installing it, run the commands that appear at the end
       - Check the `Homebrew` section
     - Package and environment manager: [Miniconda](https://docs.conda.io/en/latest/miniconda.html#macos-installers)
+    - Node.js version manager: [nvm](https://github.com/nvm-sh/nvm#install--update-script)
 
 ### [System Preferences](https://support.apple.com/guide/mac-help/change-system-preferences-mh15217/mac)
 
@@ -107,6 +108,34 @@ which python
 
 - _Preferences…_ > _Default save location:_ > _Change…_ > `~/Documents`
 - _Preferences…_ > _Change Shortcut:_ > _Take screenshot and open editor_ > `Command`+`Shift`+`9`
+
+### Node.js (via nvm)
+
+After installing nvm, close the current terminal, open a new one, and run the following commands to confirm that nvm has been installed ([source](https://github.com/nvm-sh/nvm#verify-installation)):
+
+```bash
+command -v nvm
+```
+
+```bash
+nvm --version
+```
+
+Install [Node.js 16.13.1](https://nodejs.org/dist/v16.13.1/docs/api/):
+
+```bash
+nvm install 16.13.1
+```
+
+```bash
+nvm alias default 16.13.1
+```
+
+```bash
+node --version && npm --version
+```
+
+Add [this snippet](https://github.com/nvm-sh/nvm#zsh) to the `~/.zshrc` file to call `nvm use` automatically on directories that contain a `.nvmrc` file.
 
 ## References
 
