@@ -137,6 +137,34 @@ node --version && npm --version
 
 Add [this snippet](https://github.com/nvm-sh/nvm#zsh) to the `~/.zshrc` file to call `nvm use` automatically on directories that contain a `.nvmrc` file.
 
+#### Yarn and pnpm (via [Corepack](https://nodejs.org/dist/v16.13.1/docs/api/corepack.html))
+
+Check the latest versions of [Yarn 1](https://classic.yarnpkg.com/en/docs/install) and [pnpm](https://github.com/pnpm/pnpm/releases) ([source](https://pnpm.io/installation#using-corepack)) first.
+
+```bash
+corepack --help
+```
+
+```bash
+corepack enable
+```
+
+```bash
+corepack prepare yarn@1.22.19 --activate
+```
+
+```bash
+yarn --version
+```
+
+```bash
+corepack prepare pnpm@7.9.3 --activate
+```
+
+```bash
+pnpm --version
+```
+
 ## References
 
 - [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/) by swyx
