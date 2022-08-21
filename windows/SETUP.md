@@ -39,7 +39,7 @@ code --list-extensions
 
 #### User/_Global_ Settings
 
-`Ctrl`+`Shift`+`P` > _Preferences: Open Settings (JSON)_ ([source](https://code.visualstudio.com/docs/getstarted/settings#_settingsjson)):
+`Ctrl`+`Shift`+`P` > _Preferences: Open User Settings (JSON)_ ([source](https://code.visualstudio.com/docs/getstarted/settings#_settingsjson)):
 
 ```jsonc
 {

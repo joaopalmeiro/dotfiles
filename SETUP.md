@@ -102,7 +102,28 @@ which python
 
 ### VS Code
 
+#### [Explorer](https://code.visualstudio.com/docs/getstarted/userinterface#_explorer)
+
 - _EXPLORER_ > _…_ > Check _Open Editors_ + Uncheck _Outline_ and _Timeline_
+
+#### User/_Global_ Settings
+
+`Shift`+`Command`+`P` ([Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)) > _Preferences: Open User Settings (JSON)_:
+
+```jsonc
+{
+  "editor.copyWithSyntaxHighlighting": false,
+  "editor.minimap.enabled": false,
+  "extensions.ignoreRecommendations": true,
+  "git.enabled": false,
+  "keyboard.touchbar.enabled": false,
+  "update.showReleaseNotes": false,
+  "workbench.enableExperiments": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "window.zoomLevel": 1
+}
+```
 
 ### Xnapper
 
@@ -170,3 +191,4 @@ pnpm --version
 - [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/) by swyx
 - [My macOS Development Environment: iTerm2, oh-my-zsh, and VS Code](https://josh-ops.com/posts/my-macos-development-environment/) by Josh Johanning ([repo](https://github.com/joshjohanning/dotfiles))
 - [.zprofile, .zshrc, .zenv, OMG! What Do I Put Where?!](https://www.zerotohero.dev/zshell-startup-files/) by Volkan Özçelik
+- [VSC Lite](https://kittygiraudel.com/snippets/vsc-lite/) by Kitty Giraudel
