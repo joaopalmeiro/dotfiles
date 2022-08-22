@@ -9,6 +9,7 @@
   - Design: [Figma](https://www.figma.com/) (log in and install the desktop app)
   - Music: [Spotify](https://www.spotify.com/pt-en/download/)
   - Screenshots: [Xnapper](https://xnapper.com/)
+  - Browser (for screenshots): [Confectionery](https://confectioneryapp.com/)
   - From Terminal (before installing these dependencies, check the `Terminal` section first):
     - Package manager: [Homebrew](https://brew.sh/):
       - After installing it, run the commands that appear at the end
