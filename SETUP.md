@@ -116,6 +116,7 @@ code \
 --install-extension esbenp.prettier-vscode \
 --install-extension kamikillerto.vscode-colorize \
 --install-extension miguelsolorio.symbols \
+--install-extension ms-python.python \
 --install-extension nhoizey.gremlins \
 --install-extension ritwickdey.LiveServer
 ```
