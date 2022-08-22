@@ -106,6 +106,23 @@ which python
 
 - _EXPLORER_ > _…_ > Check _Open Editors_ + Uncheck _Outline_ and _Timeline_
 
+#### Extensions
+
+```bash
+code \
+--install-extension dbaeumer.vscode-eslint \
+--install-extension EditorConfig.EditorConfig \
+--install-extension esbenp.prettier-vscode \
+--install-extension kamikillerto.vscode-colorize \
+--install-extension miguelsolorio.symbols \
+--install-extension nhoizey.gremlins \
+--install-extension ritwickdey.LiveServer
+```
+
+```bash
+code --list-extensions
+```
+
 #### User/_Global_ Settings
 
 `Shift`+`Command`+`P` ([Command Palette](https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette)) > _Preferences: Open User Settings (JSON)_:
@@ -121,7 +138,8 @@ which python
   "workbench.enableExperiments": false,
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "symbols"
 }
 ```
 

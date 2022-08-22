@@ -74,6 +74,9 @@ A collection of dotfiles and related personal notes.
 - [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236).
 - Restart shell: `exec "$SHELL"` ([source](https://github.com/pyenv/pyenv#restart-your-shell)).
 - ["packageManager" field](https://nodejs.org/dist/v16.13.1/docs/api/packages.html#packagemanager) for `package.json` files.
+- VS Code themes:
+  - [VS Code Themes](https://vscodethemes.com/) website.
+  - [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow).
 
 ## References
 
