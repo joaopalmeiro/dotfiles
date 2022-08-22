@@ -77,6 +77,7 @@ A collection of dotfiles and related personal notes.
 - VS Code themes:
   - [VS Code Themes](https://vscodethemes.com/) website.
   - [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow).
+  - [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme).
 
 ## References
 

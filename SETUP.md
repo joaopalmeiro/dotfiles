@@ -111,6 +111,7 @@ which python
 ```bash
 code \
 --install-extension dbaeumer.vscode-eslint \
+--install-extension dsznajder.es7-react-js-snippets \
 --install-extension EditorConfig.EditorConfig \
 --install-extension esbenp.prettier-vscode \
 --install-extension kamikillerto.vscode-colorize \
