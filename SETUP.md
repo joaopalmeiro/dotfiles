@@ -119,7 +119,8 @@ code \
 --install-extension miguelsolorio.symbols \
 --install-extension ms-python.python \
 --install-extension nhoizey.gremlins \
---install-extension ritwickdey.LiveServer
+--install-extension ritwickdey.LiveServer \
+--install-extension tamasfe.even-better-toml
 ```
 
 ```bash
