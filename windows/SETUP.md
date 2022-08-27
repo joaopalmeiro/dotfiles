@@ -11,6 +11,10 @@
   - Media player: [VLC](https://www.videolan.org/vlc/)
   - Password manager: [1Password](https://1password.com/downloads/windows/) + [Chrome extension](https://1password.com/downloads/mac/#browsers)
   - Music: [Spotify](https://www.spotify.com/pt-en/download/)
+  - Development: [Git](https://git-scm.com/download/win)
+    - During installation:
+      - Choose `Use Visual Studio Code as Git's default editor` as the default editor used by Git
+      - Choose `None` as the credential helper
   - From Microsoft Store:
     - Gaming: [Xbox](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
     - Terminal: [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) ([repo](https://github.com/microsoft/terminal))
@@ -50,7 +54,8 @@ code --list-extensions
   "update.showReleaseNotes": false,
   "workbench.enableExperiments": false,
   "workbench.startupEditor": "none",
-  "workbench.tips.enabled": false
+  "workbench.tips.enabled": false,
+  "window.zoomLevel": 1
 }
 ```
 
