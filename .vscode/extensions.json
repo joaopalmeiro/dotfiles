@@ -2,6 +2,7 @@
   "recommendations": [
     "idleberg.applescript",
     "timonwong.shellcheck",
-    "nhoizey.gremlins"
+    "nhoizey.gremlins",
+    "redhat.vscode-xml"
   ]
 }

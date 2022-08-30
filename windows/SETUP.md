@@ -18,6 +18,8 @@
   - From Microsoft Store:
     - Gaming: [Xbox](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z)
     - Terminal: [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) ([repo](https://github.com/microsoft/terminal))
+  - Package manager: [Chocolatey](https://chocolatey.org/install)
+    - Run Windows Terminal as administrator: _Iniciar_ > Right-click on _Terminal_ > _Mais_ > _Executar como administrador_
 
 ### Windows
 
@@ -34,7 +36,8 @@ To install VS Code extensions via Windows Terminal + Windows PowerShell ([source
 code `
 --install-extension EditorConfig.EditorConfig `
 --install-extension esbenp.prettier-vscode `
---install-extension nhoizey.gremlins
+--install-extension nhoizey.gremlins `
+--install-extension redhat.vscode-xml
 ```
 
 ```PowerShell
@@ -55,7 +58,11 @@ code --list-extensions
   "workbench.enableExperiments": false,
   "workbench.startupEditor": "none",
   "workbench.tips.enabled": false,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+
+  // https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml
+  // https://github.com/redhat-developer/vscode-redhat-telemetry#how-to-disable-telemetry-reporting
+  "redhat.telemetry.enabled": false
 }
 ```
 
@@ -64,6 +71,40 @@ code --list-extensions
 - Change language: _⋮_ > _Configurações…_ > _Avançado_ > _Idioma:_ > _Inglês (US)_
 - _⋮_ > _Settings…_ > _Appearance_ > _Theme:_ > _Dark_
 - _⋮_ > _Settings…_ > _Advanced_ > Uncheck _Install updates automatically_
+
+### Chocolatey
+
+Install [packages](https://docs.chocolatey.org/en-us/choco/commands/install#packages.config):
+
+```PowerShell
+choco install .\packages.config
+```
+
+For pyenv-win, run [these commands](https://github.com/pyenv-win/pyenv-win#add-system-settings) after installation. If `UnauthorizedAccess`, run [this command](https://github.com/pyenv-win/pyenv-win#power-shell) too: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine` (`Get-ExecutionPolicy -List`).
+
+### Python (via pyenv-win)
+
+Install [Python 3.7](https://docs.python.org/3.7/):
+
+```PowerShell
+pyenv --version
+```
+
+```PowerShell
+pyenv install 3.7.9
+```
+
+```PowerShell
+pyenv global 3.7.9
+```
+
+```PowerShell
+python --version
+```
+
+```PowerShell
+pyenv version
+```
 
 ## References
 

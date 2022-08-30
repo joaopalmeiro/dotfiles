@@ -1,6 +1,8 @@
 {
   "files.associations": {
-    ".gitconfig": "ini"
+    ".gitconfig": "ini",
+    "packages.config": "xml"
   },
-  "git.enabled": true
+  "git.enabled": true,
+  "editor.formatOnSave": true
 }
