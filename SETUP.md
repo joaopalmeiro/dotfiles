@@ -10,6 +10,7 @@
   - Music: [Spotify](https://www.spotify.com/pt-en/download/)
   - Screenshots: [Xnapper](https://xnapper.com/)
   - Browser (for screenshots): [Confectionery](https://confectioneryapp.com/)
+  - [TeX distribution](https://www.latex-project.org/get/#tex-distributions) ([for nbconvert](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex)): [MacTeX](https://tug.org/mactex/mactex-download.html)
   - From Terminal (before installing these dependencies, check the `Terminal` section first):
     - Package manager: [Homebrew](https://brew.sh/):
       - After installing it, run the commands that appear at the end
