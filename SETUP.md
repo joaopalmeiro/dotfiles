@@ -58,6 +58,10 @@ brew bundle install --file=./Brewfile --no-lock
 brew bundle check --file=./Brewfile
 ```
 
+```bash
+mas list
+```
+
 After installing these dependencies, configure pyenv and pipx.
 
 ### Python (via pyenv)
@@ -215,3 +219,4 @@ pnpm --version
 - [My macOS Development Environment: iTerm2, oh-my-zsh, and VS Code](https://josh-ops.com/posts/my-macos-development-environment/) by Josh Johanning ([repo](https://github.com/joshjohanning/dotfiles))
 - [.zprofile, .zshrc, .zenv, OMG! What Do I Put Where?!](https://www.zerotohero.dev/zshell-startup-files/) by Volkan Özçelik
 - [VSC Lite](https://kittygiraudel.com/snippets/vsc-lite/) by Kitty Giraudel
+- [Dotfiles](https://github.com/blakeembrey/dotfiles) by Blake Embrey

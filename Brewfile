@@ -42,6 +42,19 @@ brew "youtube-dl"
 # https://github.com/warpdotdev/Warp#installation
 cask "warp"
 
+# https://github.com/mas-cli/mas
+# https://github.com/Homebrew/homebrew-bundle#usage
+brew "mas"
+
+# https://apps.apple.com/app/sim-daltonism/id693112260
+mas "Sim Daltonism", id: 693112260
+
+# https://apps.apple.com/app/notability/id360593530
+mas "Notability", id: 360593530
+
+# https://apps.apple.com/app/xcode/id497799835
+mas "Xcode", id: 497799835
+
 # https://github.com/wulkano/Kap#get-kap
 # cask "kap"
 
