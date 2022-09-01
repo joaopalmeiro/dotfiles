@@ -213,6 +213,12 @@ corepack prepare pnpm@7.9.3 --activate
 pnpm --version
 ```
 
+### Notability
+
+- _Notability_ > _Settings_ > _Typing_ > _Font:_ > `Arial`
+- _Notability_ > _Settings_ > _Typing_ > _Size:_ > `6`
+- As the color, choose red (the one to the right of the default color).
+
 ## References
 
 - [My 2022 New Mac Setup](https://www.swyx.io/new-mac-setup/) by swyx
