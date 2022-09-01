@@ -217,7 +217,7 @@ pnpm --version
 
 - _Notability_ > _Settings_ > _Typing_ > _Font:_ > `Arial`
 - _Notability_ > _Settings_ > _Typing_ > _Size:_ > `6`
-- As the color, choose red (the one to the right of the default color).
+- As the color, choose red (the one to the right of the default color)
 
 ## References
 
