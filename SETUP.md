@@ -112,6 +112,10 @@ Install [PDM](https://pdm.fming.dev/latest/#installation) (2.1.0):
 curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python3 - --version 2.1.0
 ```
 
+```bash
+pdm --version
+```
+
 ### Figma
 
 - After opening a file:
