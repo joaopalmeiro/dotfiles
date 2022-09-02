@@ -84,6 +84,28 @@ python --version
 which python
 ```
 
+#### Global dependencies
+
+Install [Poetry](https://python-poetry.org/docs/#installation) (1.2.0):
+
+```bash
+curl -sSL https://install.python-poetry.org | python3 - --version 1.2.0
+```
+
+```bash
+poetry --version
+```
+
+Install [Pipenv](https://pypi.org/project/pipenv/2022.1.8/) (2022.1.8):
+
+```bash
+pip install pipenv==2022.1.8
+```
+
+```bash
+pipenv --version
+```
+
 ### Figma
 
 - After opening a file:
