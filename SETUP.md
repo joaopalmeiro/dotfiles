@@ -106,6 +106,12 @@ pip install pipenv==2022.1.8
 pipenv --version
 ```
 
+Install [PDM](https://pdm.fming.dev/latest/#installation) (2.1.0):
+
+```bash
+curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python3 - --version 2.1.0
+```
+
 ### Figma
 
 - After opening a file:

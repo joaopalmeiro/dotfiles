@@ -42,6 +42,9 @@ brew "youtube-dl"
 # https://github.com/warpdotdev/Warp#installation
 cask "warp"
 
+# https://hatch.pypa.io/latest/install/#homebrew
+brew "hatch"
+
 # https://github.com/mas-cli/mas
 # https://github.com/Homebrew/homebrew-bundle#usage
 brew "mas"
