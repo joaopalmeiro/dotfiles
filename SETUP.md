@@ -11,6 +11,7 @@
   - Screenshots: [Xnapper](https://xnapper.com/)
   - Browser (for screenshots): [Confectionery](https://confectioneryapp.com/)
   - [TeX distribution](https://www.latex-project.org/get/#tex-distributions) ([for nbconvert](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex)): [MacTeX](https://tug.org/mactex/mactex-download.html)
+  - Video recording: [Loom](https://www.loom.com/desktop)
   - From Terminal (before installing these dependencies, check the `Terminal` section first):
     - Package manager: [Homebrew](https://brew.sh/):
       - After installing it, run the commands that appear at the end
@@ -250,6 +251,12 @@ pnpm --version
 - _Notability_ > _Settings_ > _Typing_ > _Font:_ > `Arial`
 - _Notability_ > _Settings_ > _Typing_ > _Size:_ > `6`
 - As the color, choose red (the one to the right of the default color)
+
+### Loom
+
+- _…_ > _Preferences_ > _Settings_ > Disable _Touch up my appearance_
+- _…_ > _Preferences_ > _Account_ > Disable _Download updates in background_
+- _…_ > _Preferences_ > _Account_ > Disable _Launch at startup_
 
 ## References
 
