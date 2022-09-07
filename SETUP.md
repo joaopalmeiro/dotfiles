@@ -12,6 +12,7 @@
   - Browser (for screenshots): [Confectionery](https://confectioneryapp.com/)
   - [TeX distribution](https://www.latex-project.org/get/#tex-distributions) ([for nbconvert](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex)): [MacTeX](https://tug.org/mactex/mactex-download.html)
   - Video recording: [Loom](https://www.loom.com/desktop)
+  - Java (for [Apache Spark](https://spark.apache.org/)): [Java SE Development Kit 8u11](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) (`jdk-8u11-macosx-x64.dmg`)
   - From Terminal (before installing these dependencies, check the `Terminal` section first):
     - Package manager: [Homebrew](https://brew.sh/):
       - After installing it, run the commands that appear at the end
@@ -255,6 +256,8 @@ pnpm --version
 ### Loom
 
 - _…_ > _Preferences_ > _Settings_ > Disable _Touch up my appearance_
+- _…_ > _Preferences_ > _Settings_ > _Default quality_ > `1440p HD`
+- _…_ > _Preferences_ > _Settings_ > Disable _Show control menu_
 - _…_ > _Preferences_ > _Account_ > Disable _Download updates in background_
 - _…_ > _Preferences_ > _Account_ > Disable _Launch at startup_
 
