@@ -56,7 +56,7 @@ mas "Sim Daltonism", id: 693112260
 mas "Notability", id: 360593530
 
 # https://apps.apple.com/app/xcode/id497799835
-mas "Xcode", id: 497799835
+# mas "Xcode", id: 497799835
 
 # https://github.com/wulkano/Kap#get-kap
 # cask "kap"
