@@ -134,6 +134,7 @@ pdm --version
 ### Dotfiles
 
 - Copy the `.condarc` file to `~/.condarc`
+- Copy the `.npmrc` file to `~/.npmrc`: `cp .npmrc ~/.npmrc`
 - Copy the contents of the `.zshrc` file to `~/.zshrc` (`code ~/.zshrc`)
 
 ### Warp
