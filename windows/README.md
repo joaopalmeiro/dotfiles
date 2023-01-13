@@ -14,3 +14,7 @@
     - `Setup` > `Advanced setup` > `TOOLS` > `Gamer mode` > Disable `Enable Gamer mode when running applications in full-screen mode automatically`.
 - [The best Windows antivirus software for home users](https://www.av-test.org/en/antivirus/home-windows/) by AV-TEST.
 - [Language identifiers](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml) for fenced code blocks on [GitHub](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting).
+- Windows Subsystem for Linux (WSL):
+  - https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview
+  - [Ubuntu](https://www.microsoft.com/store/productId/9PDXGNCFSCZV)
+  - https://github.com/pyenv/pyenv#windows
