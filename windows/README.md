@@ -29,7 +29,7 @@
         - `echo 'appendWindowsPath = false' >> /etc/wsl.conf`
         - `exit`
         - `cat /etc/wsl.conf`
-      - Windows PowerShell: `wsl --shutdown`
+      - Windows PowerShell: `wsl --shutdown` or `wsl -t Ubuntu`
       - Ubuntu: `echo $PATH`
     - `pyenv --version` + `which pyenv`
     - `pyenv install -l`
