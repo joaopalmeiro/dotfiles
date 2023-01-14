@@ -18,8 +18,8 @@
   - https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview
   - [Ubuntu](https://www.microsoft.com/store/productId/9PDXGNCFSCZV)
   - pyenv:
-    - https://github.com/pyenv/pyenv#windows + https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv + https://github.com/pyenv/pyenv/wiki#suggested-build-environment
-    - [bug: pyenv is messing with my wsl environment and pipx ins't working right in powershell](https://github.com/pyenv-win/pyenv-win/issues/469) issue:
+    - https://github.com/pyenv/pyenv#windows + https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv (bash) + https://github.com/pyenv/pyenv/wiki#suggested-build-environment
+    - [bug: pyenv is messing with my wsl environment and pipx ins't working right in powershell](https://github.com/pyenv-win/pyenv-win/issues/469) issue + https://gist.github.com/ilbunilcho/4280bd55a10cefef75e74986b6bff936:
       - https://devblogs.microsoft.com/commandline/automatically-configuring-wsl/ + https://learn.microsoft.com/en-us/windows/wsl/wsl-config
       - Ubuntu:
         - `sudo rm /etc/wsl.conf`
@@ -31,10 +31,15 @@
         - `cat /etc/wsl.conf`
       - Windows PowerShell: `wsl --shutdown` or `wsl -t Ubuntu`
       - Ubuntu: `echo $PATH`
+      - VS Code:
+        - `nano ~/.bashrc`
+        - Add the following line at the end of the file: `export PATH="$PATH:/mnt/c/Users/johnn/AppData/Local/Programs/Microsoft VS Code/bin"`
+        - `echo $PATH` + `code --version` + `which code`
     - `pyenv --version` + `which pyenv`
     - `pyenv install -l`
     - `pyenv install 3.7.14`
     - `pyenv global 3.7.14`
+    - `python --version` + `which python`
   - https://www.raulmelo.dev/til/how-to-transfer-a-file-between-windows-and-wsl
   - `cd /mnt/c/Users/johnn/Downloads` or `cd /mnt/c/Users/johnn/Documents/`
   - `echo $SHELL` ([source](https://askubuntu.com/a/590903))
