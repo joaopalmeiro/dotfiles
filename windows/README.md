@@ -49,3 +49,4 @@
 - Git:
   - `git config --global core.autocrlf false`: https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows
   - https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
+  - https://help.gitkraken.com/gitkraken-client/how-to-install/: GitKraken Client data is stored in `C:\Users\{user}\AppData\Roaming\.gitkraken`
