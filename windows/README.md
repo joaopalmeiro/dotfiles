@@ -34,6 +34,7 @@
       - VS Code:
         - `nano ~/.bashrc`
         - Add the following line at the end of the file: `export PATH="$PATH:/mnt/c/Users/johnn/AppData/Local/Programs/Microsoft VS Code/bin"`
+          - To be able to use the `clip.exe` CLI and copy to the Windows clipboard: `export PATH="$PATH:/mnt/c/Users/johnn/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Windows/System32"`
         - `echo $PATH` + `code --version` + `which code`
     - `pyenv --version` + `which pyenv`
     - `pyenv install -l`
