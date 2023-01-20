@@ -46,3 +46,6 @@
   - `echo $SHELL` ([source](https://askubuntu.com/a/590903))
   - `wsl --version` and `wsl --list --verbose` ([source](https://learn.microsoft.com/en-us/windows/wsl/basic-commands))
   - `systeminfo`
+- Git:
+  - `git config --global core.autocrlf false`: https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows
+  - https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
