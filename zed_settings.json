@@ -4,5 +4,23 @@
   },
   "theme": "One Dark",
   "ui_font_size": 16,
-  "buffer_font_size": 16
+  "buffer_font_size": 16,
+  "autosave": "off",
+  "cursor_blink": true,
+  "ensure_final_newline_on_save": true,
+  "format_on_save": "off",
+  "hard_tabs": false,
+  "journal": {
+    "path": "~",
+    "hour_format": "hour24"
+  },
+  "remove_trailing_whitespace_on_save": true,
+  "show_completions_on_input": true,
+  "show_completion_documentation": true,
+  "show_whitespaces": "selection",
+  "tab_size": 2,
+  "project_panel": {
+    "dock": "right",
+    "git_status": true
+  }
 }
