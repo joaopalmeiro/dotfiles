@@ -2,7 +2,5 @@
   "files.associations": {
     ".gitconfig": "ini",
     "packages.config": "xml"
-  },
-  "git.enabled": true,
-  "editor.formatOnSave": true
+  }
 }

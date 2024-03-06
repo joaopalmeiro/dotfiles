@@ -15,3 +15,14 @@
 - [Thibault Duplessis's dotfiles](https://github.com/ornicar/dotfiles).
 - [Aaron Meurer's dotfiles](https://github.com/asmeurer/dotfiles).
 - [Carlos Cuesta's dotfiles](https://github.com/carloscuesta/dotfiles).
+
+## Snippets
+
+### `.vscode/settings.json`
+
+```jsonc
+{
+  "git.enabled": true,
+  "editor.formatOnSave": true
+}
+```
