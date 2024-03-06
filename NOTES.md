@@ -1,0 +1,76 @@
+# Notes
+
+- Current terminal emulator:
+  - ~~[iTerm2](https://iterm2.com/)~~
+  - [Warp](https://www.warp.dev/)
+- Install [Volta](https://docs.volta.sh/guide/getting-started) for JS-based development.
+- [iTerm2](https://iterm2.com/) (terminal emulator for macOS).
+- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle): `Brewfile` + `brew bundle` command.
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) (Zsh framework).
+  - [`git` plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) (aliases + functions).
+  - The themes (`*.zsh-theme` files) are for the prompt layout. Colors are defined by iTerm2.
+  - [Themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) that I found particularly interesting:
+    - `"af-magic"`
+    - `"agnoster"`
+    - `"blinks"`
+    - `"refined"` (this theme is inspired by [Pure](https://github.com/sindresorhus/pure), a Zsh prompt created by Sindre Sorhus)
+  - [Uninstall](https://github.com/ohmyzsh/ohmyzsh#uninstalling-oh-my-zsh).
+- `ls` with symlinks: `ls -al`.
+- `export JAVA_HOME=$(/usr/libexec/java_home)`.
+- AppleScript:
+  - [Automate tasks using AppleScript and Terminal on Mac](https://support.apple.com/en-gb/guide/terminal/trml1003/2.10/mac/10.15).
+  - [Dim screen brightness of MBP, using AppleScript (and while using a secondary monitor)?](https://apple.stackexchange.com/a/285907).
+  - [How to script brightness turning down and up?](https://apple.stackexchange.com/questions/334013/how-to-script-brightness-turning-down-and-up).
+  - [AppleScript for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript).
+- [Amethyst](https://github.com/ianyh/Amethyst):
+  - Window manager for macOS.
+  - Tall layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>A</kbd> (lowercase `a`)
+  - Fullscreen layout: <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>D</kbd> (lowercase `d`)
+- [pandoc](https://pandoc.org/):
+  - [Formats](https://pandoc.org/MANUAL.html#general-options): `markdown` and `jira`.
+  - [Install](https://pandoc.org/installing.html): `brew install pandoc` or `brew upgrade pandoc`.
+  - [Getting started with pandoc](https://pandoc.org/getting-started.html).
+  - [Jira/Confluence wiki markup](https://jira.atlassian.com/secure/WikiRendererHelpAction.jspa?section=all):
+    - Create a link to a user profile page: `[~username]`.
+  - Markdown parsers (Python):
+    - [mistune](https://github.com/lepture/mistune) ([renderers](https://mistune.readthedocs.io/en/latest/advanced.html#use-renderers)).
+    - [mistletoe](https://github.com/miyuchina/mistletoe).
+- Check AppleScript version: `osascript -e "version of AppleScript"` ([source](https://gist.github.com/SnoringFrog/c29c3180dcd92bd571b6)).
+- Conda:
+  - [Uninstall](https://docs.continuum.io/anaconda/install/uninstall/) ([+](https://stackoverflow.com/a/62837862) `rm -rf ~/.anaconda_backup`).
+  - [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+  - [`.condarc` file](https://conda.io/docs/user-guide/configuration/use-condarc.html) ([sample](https://conda.io/projects/conda/en/latest/user-guide/configuration/sample-condarc.html)).
+- Vim:
+  - `cp ~/.vimrc ~/Documents/GitHub/dotfiles`.
+- Version managers:
+  - Python: [pyenv](https://github.com/pyenv/pyenv).
+  - Node.js:
+    - [nvm](https://github.com/nvm-sh/nvm) ([used by Tania Rascia](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/#nodejs)).
+    - [npmrc](https://github.com/deoxxa/npmrc) (for `.npmrc` files).
+    - [fnm](https://github.com/Schniz/fnm) ([used by swyx](https://www.swyx.io/new-mac-setup/#set-up-appsenvironments)).
+    - [Volta](https://volta.sh/).
+  - R: [rig](https://github.com/r-lib/rig).
+- [EditorConfig](https://editorconfig.org/):
+  - [Svelte](https://github.com/sveltejs/svelte/blob/master/.editorconfig), [SvelteKit](https://github.com/sveltejs/kit/blob/master/.editorconfig), [sites](https://github.com/sveltejs/sites/blob/master/.editorconfig), and [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte/blob/main/.editorconfig):
+    - `indent_style = tab`.
+    - `indent_size = 2`.
+    - `[package.json]` + `indent_style = space`.
+- [ShellCheck](https://github.com/koalaman/shellcheck):
+  - [Rules](https://github.com/koalaman/shellcheck/wiki/Checks).
+  - `brew install shellcheck`.
+  - `brew update` + `brew upgrade shellcheck`.
+  - `shellcheck --version`.
+- Intuos Draw (2015):
+  - Pen tablet.
+  - Get the drivers [here](https://www.wacom.com/en-ca/support/product-support/drivers). It works on Windows 10 and macOS Catalina (version 10.15.7).
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting):
+  - [Install](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md).
+  - `brew install/uninstall zsh-syntax-highlighting`.
+- [Starship](https://starship.rs/): customizable prompt.
+- [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236).
+- Restart shell: `exec "$SHELL"` ([source](https://github.com/pyenv/pyenv#restart-your-shell)).
+- ["packageManager" field](https://nodejs.org/dist/v16.13.1/docs/api/packages.html#packagemanager) for `package.json` files.
+- VS Code themes:
+  - [VS Code Themes](https://vscodethemes.com/) website.
+  - [Rainglow](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow).
+  - [Chalice Icon Theme](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme).
