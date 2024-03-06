@@ -11,7 +11,3 @@ A collection of dotfiles and related personal notes.
 3. Run `install.sh`:
    - `cd ~/.dotfiles && sh install.sh && cd -`
 4. Restart the command line.
-
-## Notes
-
-- This setup also included the `.condarc` file currently available in the root folder.
