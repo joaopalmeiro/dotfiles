@@ -22,5 +22,10 @@
   "project_panel": {
     "dock": "right",
     "git_status": true
+  },
+  "language_overrides": {
+    "Python": {
+      "tab_size": 4
+    }
   }
 }
