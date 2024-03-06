@@ -63,3 +63,6 @@ mas "Notability", id: 360593530
 
 # https://www.raycast.com/pricing
 # cask "raycast"
+
+# https://github.com/joaopalmeiro/pdfshot
+brew "poppler"
