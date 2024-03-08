@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Enchant",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "window.nativeTabs": true,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "window.zoomLevel": 1
+}

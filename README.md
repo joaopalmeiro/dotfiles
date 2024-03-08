@@ -28,3 +28,16 @@ cp ~/.config/zed/settings.json zed_settings.json
 ```bash
 zed --version
 ```
+
+## VS Code
+
+- https://code.visualstudio.com/docs/getstarted/settings#_default-settings
+- https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations
+- [Meu VSCode minimalista (extensões, temas e config)](https://youtu.be/TW3KoPkuWEA?feature=shared) by Rocketseat
+- https://lucasprag.com/posts/underrated-vscode-feature-native-tabs/
+
+### Commands
+
+```bash
+cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
+```
