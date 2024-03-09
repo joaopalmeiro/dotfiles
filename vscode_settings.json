@@ -1,8 +1,20 @@
 {
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "window.commandCenter": false,
+  "window.customTitleBarVisibility": "never",
+  "window.nativeTabs": true,
+  "window.titleBarStyle": "native",
+  "window.zoomLevel": 1,
+  "workbench.activityBar.location": "top",
   "workbench.colorTheme": "Enchant",
   "workbench.iconTheme": "catppuccin-mocha",
-  "window.nativeTabs": true,
-  "editor.minimap.enabled": false,
-  "explorer.confirmDragAndDrop": false,
-  "window.zoomLevel": 1
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true
 }

@@ -1,5 +1,8 @@
 # Notes
 
+- https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
+- https://github.com/drcika/apc-extension
+
 ## References
 
 - Dries Vints' "[Getting Started with Dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles)" blog post.
