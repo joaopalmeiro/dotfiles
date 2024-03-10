@@ -57,7 +57,7 @@ brew bundle --help
 ```
 
 ```bash
-brew bundle list --file=./Brewfile
+brew bundle list --file=./Brewfile --all
 ```
 
 ```bash
