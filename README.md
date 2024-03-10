@@ -45,9 +45,29 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 ## Homebrew
 
 - https://github.com/Homebrew/homebrew-bundle
+- https://github.com/Homebrew/homebrew-cask
+- The following tools have additional steps:
+  - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
+  - [fnm](https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux)
 
 ### Commands
 
 ```bash
 brew bundle --help
+```
+
+```bash
+brew bundle list --file=./Brewfile
+```
+
+```bash
+brew bundle --file=./Brewfile --no-lock
+```
+
+```bash
+brew bundle check --file=./Brewfile
+```
+
+```bash
+brew bundle dump --file=Brewfile.dump
 ```
