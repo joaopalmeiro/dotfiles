@@ -41,3 +41,13 @@ zed --version
 ```bash
 cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
+
+## Homebrew
+
+- https://github.com/Homebrew/homebrew-bundle
+
+### Commands
+
+```bash
+brew bundle --help
+```

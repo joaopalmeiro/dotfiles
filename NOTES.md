@@ -3,6 +3,9 @@
 - https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
 - https://github.com/drcika/apc-extension
 - Zed file icons: https://github.com/zed-industries/zed/tree/v0.125.3/assets/icons/file_icons
+- https://code.visualstudio.com/docs/languages/ruby:
+  - https://github.com/Shopify/vscode-ruby-lsp
+  - https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp
 
 ## References
 

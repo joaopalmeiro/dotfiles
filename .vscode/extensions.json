@@ -1,8 +1,9 @@
 {
   "recommendations": [
+    "editorconfig.editorconfig",
     "idleberg.applescript",
-    "timonwong.shellcheck",
     "nhoizey.gremlins",
-    "redhat.vscode-xml"
+    "redhat.vscode-xml",
+    "timonwong.shellcheck"
   ]
 }
