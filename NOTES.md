@@ -8,6 +8,7 @@
   - https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp
 - https://code.visualstudio.com/updates/v1_87
 - `brew tap homebrew/cask`: "Error: Tapping homebrew/cask is no longer typically necessary."
+- https://marketplace.visualstudio.com/vscode
 
 ## References
 
