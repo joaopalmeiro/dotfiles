@@ -27,8 +27,8 @@ cask "visual-studio-code"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
 cask "rectangle"
 
-# https://marketplace.visualstudio.com/items?itemName=Ansub.enchant
-vscode "ansub.enchant"
+# https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+vscode "catppuccin.catppuccin-vsc"
 
 # https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons
 vscode "catppuccin.catppuccin-vsc-icons"

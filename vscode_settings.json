@@ -12,7 +12,7 @@
   "window.titleBarStyle": "native",
   "window.zoomLevel": 1,
   "workbench.activityBar.location": "top",
-  "workbench.colorTheme": "Enchant",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "workbench.iconTheme": "catppuccin-mocha",
   "workbench.layoutControl.enabled": false,
   "workbench.startupEditor": "none",

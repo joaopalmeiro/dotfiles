@@ -36,6 +36,11 @@ zed --version
 - [Meu VSCode minimalista (extensões, temas e config)](https://youtu.be/TW3KoPkuWEA?feature=shared) by Rocketseat
 - https://lucasprag.com/posts/underrated-vscode-feature-native-tabs/
 
+### Themes
+
+1. https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
+2. https://marketplace.visualstudio.com/items?itemName=Ansub.enchant
+
 ### Commands
 
 ```bash
