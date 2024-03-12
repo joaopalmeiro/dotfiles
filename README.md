@@ -74,5 +74,5 @@ brew bundle check --file=./Brewfile
 ```
 
 ```bash
-brew bundle dump --file=Brewfile.dump
+brew bundle dump --file=Brewfile.dump --force
 ```

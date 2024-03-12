@@ -27,6 +27,10 @@ cask "visual-studio-code"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
 cask "rectangle"
 
+# https://support.pocketcasts.com/knowledge-base/desktopother-app/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
+cask "pocket-casts"
+
 # https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
 vscode "catppuccin.catppuccin-vsc"
 
