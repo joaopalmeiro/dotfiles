@@ -36,6 +36,10 @@ cask "pocket-casts"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/b/bruno.rb
 cask "bruno"
 
+# https://github.com/p0deje/Maccy/blob/master/README.md#install
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/maccy.rb
+cask "maccy"
+
 # https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno
 vscode "bruno-api-client.bruno"
 
