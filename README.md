@@ -55,6 +55,7 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 - https://github.com/Homebrew/homebrew-cask
 - The following tools have additional steps:
   - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
+  - [pipx](https://github.com/pypa/pipx?tab=readme-ov-file#on-macos)
   - [fnm](https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux)
 
 #### Commands
