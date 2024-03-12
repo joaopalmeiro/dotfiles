@@ -10,6 +10,9 @@
 - `brew tap homebrew/cask`: "Error: Tapping homebrew/cask is no longer typically necessary."
 - https://marketplace.visualstudio.com/vscode
 - https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-pack
+- Bitwarden:
+  - [Pasteboard type](https://github.com/bitwarden/clients/issues/2633) issue
+- [Hidden Bar](https://github.com/dwarvesf/hidden) app
 
 ## References
 
