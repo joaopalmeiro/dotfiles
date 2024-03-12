@@ -31,6 +31,14 @@ cask "rectangle"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
 cask "pocket-casts"
 
+# https://github.com/usebruno/bruno?tab=readme-ov-file#installation
+# https://github.com/usebruno/bruno/releases
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/b/bruno.rb
+cask "bruno"
+
+# https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno
+vscode "bruno-api-client.bruno"
+
 # https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
 vscode "catppuccin.catppuccin-vsc"
 
