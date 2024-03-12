@@ -29,6 +29,10 @@ cask "pocket-casts"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
 cask "rectangle"
 
+# https://www.spotify.com/pt-en/download/mac/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/s/spotify.rb
+cask "spotify"
+
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/v/visual-studio-code.rb
 cask "visual-studio-code"
 
