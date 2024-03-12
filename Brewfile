@@ -1,35 +1,16 @@
 tap "homebrew/bundle"
 
-# https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos
-brew "pyenv"
-
-# https://github.com/pypa/pipx?tab=readme-ov-file#on-macos
-brew "pipx"
-
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
 # https://pandoc.org/installing.html#macos
 brew "pandoc"
 
-# https://github.com/zed-industries/zed?tab=readme-ov-file#installation
-# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/z/zed.rb
-cask "zed"
+# https://github.com/pypa/pipx?tab=readme-ov-file#on-macos
+brew "pipx"
 
-# https://docs.warp.dev/getting-started/getting-started-with-warp#installing-and-running-warp
-# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/w/warp.rb
-cask "warp"
-
-# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/v/visual-studio-code.rb
-cask "visual-studio-code"
-
-# https://github.com/rxhanson/Rectangle?tab=readme-ov-file#installation
-# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
-cask "rectangle"
-
-# https://support.pocketcasts.com/knowledge-base/desktopother-app/
-# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
-cask "pocket-casts"
+# https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos
+brew "pyenv"
 
 # https://github.com/usebruno/bruno?tab=readme-ov-file#installation
 # https://github.com/usebruno/bruno/releases
@@ -39,6 +20,25 @@ cask "bruno"
 # https://github.com/p0deje/Maccy/blob/master/README.md#install
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/maccy.rb
 cask "maccy"
+
+# https://support.pocketcasts.com/knowledge-base/desktopother-app/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
+cask "pocket-casts"
+
+# https://github.com/rxhanson/Rectangle?tab=readme-ov-file#installation
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
+cask "rectangle"
+
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/v/visual-studio-code.rb
+cask "visual-studio-code"
+
+# https://docs.warp.dev/getting-started/getting-started-with-warp#installing-and-running-warp
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/w/warp.rb
+cask "warp"
+
+# https://github.com/zed-industries/zed?tab=readme-ov-file#installation
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/z/zed.rb
+cask "zed"
 
 # https://marketplace.visualstudio.com/items?itemName=bruno-api-client.bruno
 vscode "bruno-api-client.bruno"

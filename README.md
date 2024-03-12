@@ -54,9 +54,9 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 - https://github.com/Homebrew/homebrew-bundle
 - https://github.com/Homebrew/homebrew-cask
 - The following tools have additional steps:
-  - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
-  - [pipx](https://github.com/pypa/pipx?tab=readme-ov-file#on-macos)
   - [fnm](https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux)
+  - [pipx](https://github.com/pypa/pipx?tab=readme-ov-file#on-macos)
+  - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
 
 #### Commands
 
@@ -69,6 +69,18 @@ brew bundle list --file=./Brewfile --all
 ```
 
 ```bash
+brew bundle list --file=./Brewfile --brews | sort
+```
+
+```bash
+brew bundle list --file=./Brewfile --casks | sort
+```
+
+```bash
+brew bundle list --file=./Brewfile --vscode | sort
+```
+
+```bash
 brew bundle --file=./Brewfile --no-lock
 ```
 
@@ -78,6 +90,10 @@ brew bundle check --file=./Brewfile
 
 ```bash
 brew bundle dump --file=Brewfile.dump --force
+```
+
+```bash
+brew bundle dump --file=Brewfile.dump --force --describe
 ```
 
 ## Windows
