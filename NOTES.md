@@ -29,6 +29,7 @@
 - [Thibault Duplessis's dotfiles](https://github.com/ornicar/dotfiles).
 - [Aaron Meurer's dotfiles](https://github.com/asmeurer/dotfiles).
 - [Carlos Cuesta's dotfiles](https://github.com/carloscuesta/dotfiles).
+- [Alicia Sykes' Brewfile](https://github.com/Lissy93/Brewfile).
 
 ## Snippets
 
