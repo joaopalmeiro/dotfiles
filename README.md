@@ -2,7 +2,9 @@
 
 A collection of dotfiles and related personal notes.
 
-## Zed
+## macOS
+
+### Zed
 
 - Documentation:
   - https://zed.dev/docs/configuring-zed#global-settings
@@ -11,7 +13,7 @@ A collection of dotfiles and related personal notes.
   - https://github.com/zed-industries/zed/blob/v0.124.8/assets/settings/initial_user_settings.json
   - https://github.com/zed-industries/zed/blob/v0.124.8/assets/settings/default.json
 
-### Commands
+#### Commands
 
 ```bash
 zed ~/.config/zed/settings.json
@@ -29,25 +31,25 @@ cp ~/.config/zed/settings.json zed_settings.json
 zed --version
 ```
 
-## VS Code
+### VS Code
 
 - https://code.visualstudio.com/docs/getstarted/settings#_default-settings
 - https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations
 - [Meu VSCode minimalista (extensões, temas e config)](https://youtu.be/TW3KoPkuWEA?feature=shared) by Rocketseat
 - https://lucasprag.com/posts/underrated-vscode-feature-native-tabs/
 
-### Themes
+#### Themes
 
 1. https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc
 2. https://marketplace.visualstudio.com/items?itemName=Ansub.enchant
 
-### Commands
+#### Commands
 
 ```bash
 cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
 
-## Homebrew
+### Homebrew
 
 - https://github.com/Homebrew/homebrew-bundle
 - https://github.com/Homebrew/homebrew-cask
@@ -55,7 +57,7 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
   - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
   - [fnm](https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux)
 
-### Commands
+#### Commands
 
 ```bash
 brew bundle --help
@@ -76,3 +78,11 @@ brew bundle check --file=./Brewfile
 ```bash
 brew bundle dump --file=Brewfile.dump --force
 ```
+
+## Windows
+
+### Okular
+
+- PDF viewer and editor
+- https://okular.kde.org/
+- To insert an image, first create a stamp: https://askubuntu.com/questions/1132658/how-to-add-a-signature-stamp-to-okular
