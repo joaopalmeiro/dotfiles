@@ -96,6 +96,30 @@ brew bundle dump --file=Brewfile.dump --force
 brew bundle dump --file=Brewfile.dump --force --describe
 ```
 
+### KeyCastr
+
+- https://github.com/keycastr/keycastr/issues/220
+- https://github.com/keycastr/keycastr/blob/v0.9.16/keycastr/KeyCastr.xcodeproj/project.pbxproj#L1383
+- https://github.com/keycastr/keycastr/blob/v0.9.16/keycastr/KCAppController.m#L229
+- https://macos-defaults.com/finder/nstoolbartitleviewrolloverdelay.html
+- https://github.com/keycastr/keycastr/blob/v0.9.16/keycastr/KCDefaultVisualizer.m#L39
+- https://github.com/keycastr/keycastr/blob/v0.9.16/keycastr/KCDefaultVisualizer.m#L150
+- https://github.com/keycastr/keycastr/blob/v0.9.16/keycastr/KCDefaultVisualizer.m#L154
+
+#### Commands
+
+```bash
+defaults read io.github.keycastr
+```
+
+```bash
+defaults write io.github.keycastr "default.fontSize" -float "60" && killall KeyCastr
+```
+
+```bash
+defaults delete io.github.keycastr && killall KeyCastr
+```
+
 ## Windows
 
 ### Okular

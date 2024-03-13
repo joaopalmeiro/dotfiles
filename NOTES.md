@@ -13,6 +13,8 @@
 - Bitwarden:
   - [Pasteboard type](https://github.com/bitwarden/clients/issues/2633) issue
 - [Hidden Bar](https://github.com/dwarvesf/hidden) app
+- https://macos-defaults.com/
+- https://ss64.com/mac/defaults.html
 
 ## References
 
@@ -30,6 +32,7 @@
 - [Aaron Meurer's dotfiles](https://github.com/asmeurer/dotfiles).
 - [Carlos Cuesta's dotfiles](https://github.com/carloscuesta/dotfiles).
 - [Alicia Sykes' Brewfile](https://github.com/Lissy93/Brewfile).
+- Matthias Ott's [My Favorite Mac Apps in 2023](https://matthiasott.com/notes/my-favorite-mac-apps-in-2023) blog post.
 
 ## Snippets
 

@@ -21,6 +21,10 @@ cask "bruno"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/maccy.rb
 cask "maccy"
 
+# https://github.com/keycastr/keycastr?tab=readme-ov-file#installation
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/k/keycastr.rb
+cask "keycastr"
+
 # https://support.pocketcasts.com/knowledge-base/desktopother-app/
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
 cask "pocket-casts"
