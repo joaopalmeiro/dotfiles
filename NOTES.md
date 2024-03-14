@@ -15,6 +15,7 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden) app
 - https://macos-defaults.com/
 - https://ss64.com/mac/defaults.html
+- https://github.com/lkrms/vscode-inifmt
 
 ## References
 

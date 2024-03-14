@@ -120,6 +120,24 @@ defaults write io.github.keycastr "default.fontSize" -float "60" && killall KeyC
 defaults delete io.github.keycastr && killall KeyCastr
 ```
 
+### Git
+
+- https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+- https://www.30secondsofcode.org/git/s/sort-branches-by-date/
+- https://blog.cassidoo.co/post/sort-git-branch/
+
+```bash
+code ~/.gitconfig
+```
+
+```bash
+cp ~/.gitconfig .gitconfig
+```
+
+```bash
+cp .gitconfig ~/.gitconfig
+```
+
 ## Windows
 
 ### Okular
