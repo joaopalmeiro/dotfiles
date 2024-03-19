@@ -20,6 +20,7 @@
   - https://github.com/Homebrew/homebrew-cask-versions
   - Example: https://formulae.brew.sh/cask/iterm2
   - https://stackoverflow.com/a/73839179
+- https://www.snel.com/support/connect-ftps-using-transmit/
 
 ## References
 

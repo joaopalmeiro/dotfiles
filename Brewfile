@@ -46,6 +46,11 @@ cask "rectangle"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/s/spotify.rb
 cask "spotify"
 
+# https://panic.com/transmit/
+# https://help.panic.com/releasenotes/transmit5/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/t/transmit.rb
+cask "transmit"
+
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/v/visual-studio-code.rb
 cask "visual-studio-code"
 
