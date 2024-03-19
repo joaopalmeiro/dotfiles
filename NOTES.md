@@ -21,6 +21,9 @@
   - Example: https://formulae.brew.sh/cask/iterm2
   - https://stackoverflow.com/a/73839179
 - https://www.snel.com/support/connect-ftps-using-transmit/
+- Uninstall Miniconda:
+  - https://docs.anaconda.com/free/anaconda/install/uninstall/
+  - https://conda.io/projects/conda/en/latest/user-guide/install/macos.html#uninstalling-anaconda-or-miniconda
 
 ## References
 

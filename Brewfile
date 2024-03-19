@@ -30,6 +30,11 @@ cask "maccy"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/mark-text.rb
 # cask "mark-text"
 
+# https://conda.io/projects/conda/en/latest/index.html
+# https://conda.io/projects/conda/en/latest/release-notes.html
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/miniconda.rb
+cask "miniconda"
+
 # https://github.com/keycastr/keycastr?tab=readme-ov-file#installation
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/k/keycastr.rb
 cask "keycastr"

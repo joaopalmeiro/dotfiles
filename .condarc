@@ -1,0 +1,21 @@
+# https://conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html
+# https://conda.io/projects/conda/en/latest/configuration.html
+# https://conda.github.io/conda-libmamba-solver/user-guide/performance/
+# https://conda.github.io/conda-libmamba-solver/user-guide/
+# https://conda-forge.org/docs/user/introduction/#how-can-i-install-packages-from-conda-forge
+
+auto_activate_base: False
+auto_update_conda: False
+
+solver: libmamba
+# solver: classic
+
+channels:
+  - conda-forge
+  - defaults
+
+channel_priority: strict
+extra_safety_checks: True
+always_yes: True
+notify_outdated_conda: False
+show_channel_urls: True

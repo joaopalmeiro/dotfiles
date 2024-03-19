@@ -55,6 +55,7 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 - https://github.com/Homebrew/homebrew-cask
 - The following tools have additional steps:
   - [fnm](https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux)
+  - [miniconda](https://formulae.brew.sh/cask/miniconda)
   - [pipx](https://github.com/pypa/pipx?tab=readme-ov-file#on-macos)
   - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
 
@@ -148,6 +149,30 @@ cp .gitconfig ~/.gitconfig
 
 ```bash
 xattr -d com.apple.quarantine /Applications/MarkText.app
+```
+
+### Miniconda
+
+- https://conda.io/projects/conda/en/latest/user-guide/configuration/use-condarc.html#creating-and-editing
+- https://conda.io/projects/conda/en/latest/commands/config.html#config-subcommands
+- https://conda.io/projects/conda/en/latest/commands/config.html#config-modifiers
+
+#### Commands
+
+```bash
+conda info --all
+```
+
+```bash
+conda config --validate
+```
+
+```bash
+conda config --show-sources
+```
+
+```bash
+conda config --show
 ```
 
 ## Windows
