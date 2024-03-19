@@ -17,6 +17,11 @@ brew "pyenv"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/b/bruno.rb
 cask "bruno"
 
+# https://github.com/desktop/desktop?tab=readme-ov-file#community-releases
+# https://desktop.github.com/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/g/github.rb
+cask "github"
+
 # https://github.com/p0deje/Maccy/blob/master/README.md#install
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/maccy.rb
 cask "maccy"
