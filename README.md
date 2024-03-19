@@ -138,6 +138,18 @@ cp ~/.gitconfig .gitconfig
 cp .gitconfig ~/.gitconfig
 ```
 
+### MarkText
+
+- https://github.com/marktext/marktext/issues/2983
+- https://github.com/marktext/marktext/issues/2983#issuecomment-1075164029
+- https://stackoverflow.com/a/19554437
+
+#### Commands
+
+```bash
+xattr -d com.apple.quarantine /Applications/MarkText.app
+```
+
 ## Windows
 
 ### Okular

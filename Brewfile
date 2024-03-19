@@ -26,6 +26,10 @@ cask "github"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/maccy.rb
 cask "maccy"
 
+# https://github.com/marktext/marktext?tab=readme-ov-file#macos
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/mark-text.rb
+# cask "mark-text"
+
 # https://github.com/keycastr/keycastr?tab=readme-ov-file#installation
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/k/keycastr.rb
 cask "keycastr"
