@@ -16,6 +16,10 @@
 - https://macos-defaults.com/
 - https://ss64.com/mac/defaults.html
 - https://github.com/lkrms/vscode-inifmt
+- homebrew-cask-versions:
+  - https://github.com/Homebrew/homebrew-cask-versions
+  - Example: https://formulae.brew.sh/cask/iterm2
+  - https://stackoverflow.com/a/73839179
 
 ## References
 
