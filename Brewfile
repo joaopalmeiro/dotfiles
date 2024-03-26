@@ -3,6 +3,9 @@ tap "homebrew/bundle"
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
+# https://github.com/Y2Z/monolith?tab=readme-ov-file#installation
+brew "monolith"
+
 # https://pandoc.org/installing.html#macos
 brew "pandoc"
 
