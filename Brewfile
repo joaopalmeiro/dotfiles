@@ -12,6 +12,9 @@ brew "pipx"
 # https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos
 brew "pyenv"
 
+# https://github.com/yt-dlp/yt-dlp/wiki/Installation#homebrew
+brew "yt-dlp"
+
 # https://github.com/usebruno/bruno?tab=readme-ov-file#installation
 # https://github.com/usebruno/bruno/releases
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/b/bruno.rb

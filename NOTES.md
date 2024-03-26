@@ -24,6 +24,7 @@
 - Uninstall Miniconda:
   - https://docs.anaconda.com/free/anaconda/install/uninstall/
   - https://conda.io/projects/conda/en/latest/user-guide/install/macos.html#uninstalling-anaconda-or-miniconda
+- https://nono.ma/download-high-quality-youtube-videos
 
 ## References
 
