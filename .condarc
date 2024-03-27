@@ -4,6 +4,7 @@
 # https://conda.github.io/conda-libmamba-solver/user-guide/
 # https://conda-forge.org/docs/user/introduction/#how-can-i-install-packages-from-conda-forge
 # https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html#conda-libmamba-solver
+# https://mamba.readthedocs.io/en/latest/user_guide/troubleshooting.html#using-the-defaults-channels
 
 auto_activate_base: False
 auto_update_conda: False
@@ -13,7 +14,7 @@ solver: libmamba
 
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 
 channel_priority: strict
 extra_safety_checks: True
