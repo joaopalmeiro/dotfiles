@@ -186,6 +186,40 @@ conda config --show-sources
 conda config --show
 ```
 
+```bash
+conda config --describe
+```
+
+### micromamba
+
+- https://mamba.readthedocs.io/en/latest/user_guide/configuration.html
+
+#### Commands
+
+```bash
+cp .mambarc ~/.mambarc
+```
+
+```bash
+micromamba info
+```
+
+```bash
+micromamba config list --sources
+```
+
+```bash
+micromamba config sources
+```
+
+```bash
+micromamba config list --all --long-descriptions
+```
+
+```bash
+micromamba config list --all --long-descriptions --no-rc
+```
+
 ## Windows
 
 ### Okular

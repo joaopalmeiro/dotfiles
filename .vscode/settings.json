@@ -1,6 +1,7 @@
 {
   "files.associations": {
     ".gitconfig": "ini",
-    "packages.config": "xml"
+    "packages.config": "xml",
+    ".mambarc": "yaml"
   }
 }

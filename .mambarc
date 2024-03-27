@@ -1,0 +1,11 @@
+# https://mamba.readthedocs.io/en/latest/user_guide/troubleshooting.html#using-the-defaults-channels
+
+channels:
+  - conda-forge
+  - nodefaults
+
+channel_priority: strict
+extra_safety_checks: true
+verify_artifacts: true
+always_yes: true
+auto_activate_base: false
