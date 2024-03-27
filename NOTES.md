@@ -25,6 +25,8 @@
   - https://docs.anaconda.com/free/anaconda/install/uninstall/
   - https://conda.io/projects/conda/en/latest/user-guide/install/macos.html#uninstalling-anaconda-or-miniconda
 - https://nono.ma/download-high-quality-youtube-videos
+- https://docs.brew.sh/Tips-N'-Tricks#hide-the-beer-mug-emoji-when-finishing-a-build
+- https://www.warp.dev/terminus/mkdir-if-not-exists
 
 ## References
 

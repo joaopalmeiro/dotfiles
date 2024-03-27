@@ -51,6 +51,9 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 
 ### Homebrew
 
+- https://docs.brew.sh/Manpage#environment
+- https://github.com/Homebrew/brew/blob/4.2.15/bin/brew#L97
+- https://github.com/jbranchaud/til/blob/71598d647b80489171735272dacd37de9268d2b6/brew/configure-brew-environment-variables.md
 - https://github.com/Homebrew/homebrew-bundle
 - https://github.com/Homebrew/homebrew-cask
 - The following tools have additional steps:
@@ -60,6 +63,14 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
   - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
 
 #### Commands
+
+```bash
+brew config
+```
+
+```bash
+mkdir -p $HOME/.homebrew && cp brew.env $HOME/.homebrew/brew.env
+```
 
 ```bash
 brew bundle --help
