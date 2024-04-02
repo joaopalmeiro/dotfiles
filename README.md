@@ -108,6 +108,14 @@ brew bundle dump --file=Brewfile.dump --force
 brew bundle dump --file=Brewfile.dump --force --describe
 ```
 
+```bash
+brew cleanup --prune=all -s --verbose --dry-run
+```
+
+```bash
+brew cleanup --prune=all -s --verbose
+```
+
 ### KeyCastr
 
 - https://github.com/keycastr/keycastr/issues/220

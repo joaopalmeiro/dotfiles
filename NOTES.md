@@ -27,6 +27,10 @@
 - https://nono.ma/download-high-quality-youtube-videos
 - https://docs.brew.sh/Tips-N'-Tricks#hide-the-beer-mug-emoji-when-finishing-a-build
 - https://www.warp.dev/terminus/mkdir-if-not-exists
+- https://github.com/orgs/Homebrew/discussions/5243#discussioncomment-8954951 + https://github.com/orgs/Homebrew/discussions/5243#discussioncomment-8965421
+- `brew cleanup`:
+  - [Housekeeping for Homebrew](https://mac.install.guide/homebrew/8) by Daniel Kehoe
+  - https://github.com/orgs/Homebrew/discussions/5243#discussioncomment-8958788
 
 ## References
 
