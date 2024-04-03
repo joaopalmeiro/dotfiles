@@ -233,11 +233,30 @@ micromamba config list --all --long-descriptions --no-rc
 - https://www.git-town.com/commands/sync
 - https://github.com/git-town/git-town/tree/v13.0.2/features
 - https://youtu.be/oLaUsUlFfTo?feature=shared
+- https://www.git-town.com/commands/config
+- https://www.git-town.com/preferences/main-branch
+- https://github.com/git-town/git-town/issues/3048 + https://www.git-town.com/configuration for aliases
 
 #### Commands
 
 ```bash
 git town --version
+```
+
+```bash
+git config git-town.main-branch development
+```
+
+```bash
+git town config
+```
+
+```bash
+git town sync --dry-run
+```
+
+```bash
+git town sync
 ```
 
 ## Windows
