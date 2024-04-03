@@ -3,6 +3,9 @@ tap "homebrew/bundle"
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
+# https://www.git-town.com/install#macos
+brew "git-town"
+
 # https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html#homebrew
 brew "micromamba"
 

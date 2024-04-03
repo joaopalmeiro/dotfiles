@@ -228,6 +228,18 @@ micromamba config list --all --long-descriptions
 micromamba config list --all --long-descriptions --no-rc
 ```
 
+### Git Town
+
+- https://www.git-town.com/commands/sync
+- https://github.com/git-town/git-town/tree/v13.0.2/features
+- https://youtu.be/oLaUsUlFfTo?feature=shared
+
+#### Commands
+
+```bash
+git town --version
+```
+
 ## Windows
 
 ### Okular
