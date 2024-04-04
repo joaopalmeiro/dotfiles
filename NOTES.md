@@ -50,6 +50,16 @@
 - [Alicia Sykes' Brewfile](https://github.com/Lissy93/Brewfile).
 - Matthias Ott's [My Favorite Mac Apps in 2023](https://matthiasott.com/notes/my-favorite-mac-apps-in-2023) blog post.
 
+## Commands
+
+### Back up Chrome bookmarks file on macOS
+
+- https://github.com/andrewp-as-is/chrome-bookmarks.py
+
+```bash
+cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks ~/Documents/
+```
+
 ## Snippets
 
 ### `.vscode/settings.json`
