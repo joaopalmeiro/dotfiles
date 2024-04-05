@@ -55,6 +55,10 @@ cask "keycastr"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
 cask "pocket-casts"
 
+# https://protonvpn.com/download-macos
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/protonvpn.rb
+cask "protonvpn"
+
 # https://github.com/rxhanson/Rectangle?tab=readme-ov-file#installation
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
 cask "rectangle"
