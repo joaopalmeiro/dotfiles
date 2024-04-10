@@ -34,6 +34,9 @@ cask "bruno"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/f/figma.rb
 cask "figma"
 
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/f/firefox.rb
+cask "firefox"
+
 # https://github.com/Homebrew/homebrew-cask-fonts/blob/master/Casks/font-inter.rb
 cask "font-inter"
 
