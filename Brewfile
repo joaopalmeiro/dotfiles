@@ -101,6 +101,9 @@ vscode "esbenp.prettier-vscode"
 # https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 vscode "gruntfuggly.todo-tree"
 
+# https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv
+vscode "janisdd.vscode-edit-csv"
+
 # https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker
 vscode "ms-python.mypy-type-checker"
 
