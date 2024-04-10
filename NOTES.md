@@ -36,6 +36,10 @@
   - "Use `~/.zshrc` for aliases and a custom prompt, tweaking the appearance and behavior of the terminal."
 - https://www.chiarulli.me/Nodejs/02-Install-FNM/:
   - `eval "$(fnm env)"`
+- `tap "homebrew/bundle"`:
+  - https://github.com/Homebrew/homebrew-bundle/issues/287:
+    - "Running `brew bundle` the first time automatically taps it (similar to how `brew cask` works)."
+  - https://github.com/Homebrew/homebrew-bundle/pull/288/files
 
 ## References
 

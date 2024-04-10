@@ -1,5 +1,3 @@
-tap "homebrew/bundle"
-
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
