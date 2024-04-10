@@ -179,6 +179,10 @@ xattr -d com.apple.quarantine /Applications/MarkText.app
 #### Commands
 
 ```bash
+cp .condarc ~/.condarc
+```
+
+```bash
 conda info --all
 ```
 
