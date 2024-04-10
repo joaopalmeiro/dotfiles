@@ -1,3 +1,6 @@
+# https://github.com/Homebrew/homebrew-cask-fonts
+tap "homebrew/cask-fonts"
+
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
@@ -30,6 +33,12 @@ cask "bruno"
 # https://www.figma.com/downloads/
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/f/figma.rb
 cask "figma"
+
+# https://github.com/Homebrew/homebrew-cask-fonts/blob/master/Casks/font-inter.rb
+cask "font-inter"
+
+# https://github.com/Homebrew/homebrew-cask-fonts/blob/master/Casks/font-roboto.rb
+cask "font-roboto"
 
 # https://github.com/desktop/desktop?tab=readme-ov-file#community-releases
 # https://desktop.github.com/
