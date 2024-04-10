@@ -31,6 +31,11 @@
 - `brew cleanup`:
   - [Housekeeping for Homebrew](https://mac.install.guide/homebrew/8) by Daniel Kehoe
   - https://github.com/orgs/Homebrew/discussions/5243#discussioncomment-8958788
+- https://mac.install.guide/terminal/zshrc-zprofile:
+  - "Use `~/.zprofile` to set the `PATH` and `EDITOR` environment variables."
+  - "Use `~/.zshrc` for aliases and a custom prompt, tweaking the appearance and behavior of the terminal."
+- https://www.chiarulli.me/Nodejs/02-Install-FNM/:
+  - `eval "$(fnm env)"`
 
 ## References
 
