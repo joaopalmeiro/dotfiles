@@ -27,6 +27,10 @@ brew "yt-dlp"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/b/bruno.rb
 cask "bruno"
 
+# https://www.figma.com/downloads/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/f/figma.rb
+cask "figma"
+
 # https://github.com/desktop/desktop?tab=readme-ov-file#community-releases
 # https://desktop.github.com/
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/g/github.rb
