@@ -42,7 +42,7 @@ cask "maccy"
 
 # https://github.com/marktext/marktext?tab=readme-ov-file#macos
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/mark-text.rb
-# cask "mark-text"
+cask "mark-text"
 
 # https://conda.io/projects/conda/en/latest/index.html
 # https://conda.io/projects/conda/en/latest/release-notes.html
@@ -64,6 +64,10 @@ cask "protonvpn"
 # https://github.com/rxhanson/Rectangle?tab=readme-ov-file#installation
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/r/rectangle.rb
 cask "rectangle"
+
+# https://skim-app.sourceforge.io/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/s/skim.rb
+cask "skim"
 
 # https://www.spotify.com/pt-en/download/mac/
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/s/spotify.rb
