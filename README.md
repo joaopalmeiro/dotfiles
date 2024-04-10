@@ -259,6 +259,17 @@ git town sync --dry-run
 git town sync
 ```
 
+### Rectangle
+
+- https://macos-defaults.com/dock/show-recents.html
+- https://github.com/rxhanson/Rectangle/blob/main/TerminalCommands.md
+
+#### Commands
+
+```bash
+defaults write com.knollsoft.Rectangle "alternateDefaultShortcuts" -bool "true" && killall Rectangle
+```
+
 ## Windows
 
 ### Okular
