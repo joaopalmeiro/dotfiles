@@ -270,6 +270,22 @@ git town sync
 defaults write com.knollsoft.Rectangle "alternateDefaultShortcuts" -bool "true" && killall Rectangle
 ```
 
+### Dock
+
+- https://support.apple.com/en-gb/guide/mac-help/mh35859/14.0/mac/14.0
+- https://macos-defaults.com/dock/tilesize.html
+- https://macos-defaults.com/dock/show-recents.html
+
+#### Commands
+
+```bash
+defaults write com.apple.dock "tilesize" -int "48" && killall Dock
+```
+
+```bash
+defaults write com.apple.dock "show-recents" -bool "false" && killall Dock
+```
+
 ## Windows
 
 ### Okular
