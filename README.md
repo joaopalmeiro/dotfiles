@@ -290,6 +290,20 @@ defaults write com.apple.dock "tilesize" -int "48" && killall Dock
 defaults write com.apple.dock "show-recents" -bool "false" && killall Dock
 ```
 
+### Warp
+
+#### Commands
+
+```bash
+defaults write dev.warp.Warp-Stable "Theme" -string "\"Dracula\""
+```
+
+Restart Warp manually.
+
+```bash
+defaults read dev.warp.Warp-Stable
+```
+
 ## Windows
 
 ### Okular

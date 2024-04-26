@@ -69,6 +69,12 @@
 cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks ~/Documents/
 ```
 
+### `defaults`
+
+```bash
+defaults domains
+```
+
 ## Snippets
 
 ### `.vscode/settings.json`
