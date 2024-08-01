@@ -65,7 +65,7 @@ cask "miniconda"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/k/keycastr.rb
 cask "keycastr"
 
-# https://support.pocketcasts.com/knowledge-base/desktopother-app/
+# https://support.pocketcasts.com/knowledge-base/desktop-app/
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/p/pocket-casts.rb
 cask "pocket-casts"
 

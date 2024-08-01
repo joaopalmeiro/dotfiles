@@ -85,3 +85,19 @@ defaults domains
   "editor.formatOnSave": true
 }
 ```
+
+### Update a Homebrew package
+
+- https://docs.brew.sh/FAQ#how-do-i-update-my-local-packages
+
+```bash
+brew update
+```
+
+```bash
+brew outdated
+```
+
+```bash
+brew upgrade pocket-casts
+```
