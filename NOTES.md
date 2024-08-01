@@ -75,17 +75,6 @@ cp ~/Library/Application\ Support/Google/Chrome/Default/Bookmarks ~/Documents/
 defaults domains
 ```
 
-## Snippets
-
-### `.vscode/settings.json`
-
-```jsonc
-{
-  "git.enabled": true,
-  "editor.formatOnSave": true
-}
-```
-
 ### Update a Homebrew package
 
 - https://docs.brew.sh/FAQ#how-do-i-update-my-local-packages
@@ -100,4 +89,15 @@ brew outdated
 
 ```bash
 brew upgrade pocket-casts
+```
+
+## Snippets
+
+### `.vscode/settings.json`
+
+```jsonc
+{
+  "git.enabled": true,
+  "editor.formatOnSave": true
+}
 ```
