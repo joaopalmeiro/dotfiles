@@ -304,6 +304,52 @@ Restart Warp manually.
 defaults read dev.warp.Warp-Stable
 ```
 
+### SDKMAN!
+
+#### Commands
+
+```bash
+code ~/.zshrc
+```
+
+Copy the snippet in the [tap repository](https://github.com/sdkman/homebrew-tap) to the end of the `.zshrc` file.
+
+```bash
+sdk version
+```
+
+```bash
+sdk list java
+```
+
+```bash
+sdk install java 8.0.422-amzn
+```
+
+```bash
+java -version
+```
+
+```bash
+echo $JAVA_HOME
+```
+
+```bash
+sdk home java 8.0.422-amzn
+```
+
+```bash
+sdk list maven
+```
+
+```bash
+sdk install maven 3.6.3
+```
+
+```bash
+sdk current
+```
+
 ## Windows
 
 ### Okular

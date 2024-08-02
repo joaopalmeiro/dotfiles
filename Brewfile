@@ -1,6 +1,9 @@
 # https://github.com/Homebrew/homebrew-cask-fonts
 tap "homebrew/cask-fonts"
 
+# https://github.com/sdkman/homebrew-tap
+tap "sdkman/tap"
+
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
@@ -21,6 +24,9 @@ brew "pipx"
 
 # https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos
 brew "pyenv"
+
+# https://github.com/sdkman/homebrew-tap/blob/master/Formula/sdkman-cli.rb
+brew "sdkman-cli"
 
 # https://github.com/yt-dlp/yt-dlp/wiki/Installation#homebrew
 brew "yt-dlp"

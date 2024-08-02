@@ -40,6 +40,17 @@
   - https://github.com/Homebrew/homebrew-bundle/issues/287:
     - "Running `brew bundle` the first time automatically taps it (similar to how `brew cask` works)."
   - https://github.com/Homebrew/homebrew-bundle/pull/288/files
+- SDKMAN!:
+  - https://sdkman.io/
+  - https://walterteng.com/using-sdkman-on-mac
+  - https://github.com/sdkman/sdkman-cli
+  - "(...) it's compatible with both Bash and ZSH shells."
+  - https://sdkman.io/install
+  - https://github.com/sdkman/homebrew-tap
+  - https://github.com/sdkman/sdkman-cli/issues/431#issuecomment-361682343: "SDKMAN will dynamically set the `JAVA_HOME` environment variable (...)"
+  - https://sdkman.io/usage
+  - https://sdkman.io/jdks#amzn
+  - https://sdkman.io/sdks
 
 ## References
 
