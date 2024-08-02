@@ -347,6 +347,10 @@ sdk install maven 3.6.3
 ```
 
 ```bash
+mvn --version
+```
+
+```bash
 sdk current
 ```
 
