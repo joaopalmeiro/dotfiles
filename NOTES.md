@@ -51,6 +51,7 @@
   - https://sdkman.io/usage
   - https://sdkman.io/jdks#amzn
   - https://sdkman.io/sdks
+- https://en.wikipedia.org/wiki/Z_shell
 
 ## References
 
@@ -100,6 +101,19 @@ brew outdated
 
 ```bash
 brew upgrade pocket-casts
+```
+
+### Clear Zsh history on macOS
+
+- https://macpaw.com/how-to/clear-terminal-history-mac
+- https://appleinsider.com/inside/macos/tips/how-to-clear-terminals-command-history-in-macos
+
+```bash
+history -p
+```
+
+```bash
+rm -rf ~/.zsh_history ~/.zsh_sessions/
 ```
 
 ## Snippets
