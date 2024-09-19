@@ -54,6 +54,9 @@ cask "font-roboto"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/g/github.rb
 cask "github"
 
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/g/google-chrome.rb
+cask "google-chrome"
+
 # https://github.com/p0deje/Maccy/blob/master/README.md#install
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/m/maccy.rb
 cask "maccy"
