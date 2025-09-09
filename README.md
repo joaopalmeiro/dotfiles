@@ -354,6 +354,16 @@ mvn --version
 sdk current
 ```
 
+##### Project-specific version
+
+```bash
+sdk install java 24.0.2-amzn
+```
+
+```bash
+sdk use java 24.0.2-amzn
+```
+
 ## Windows
 
 ### Okular
