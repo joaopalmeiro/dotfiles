@@ -49,6 +49,10 @@ cask "font-inter"
 # https://github.com/Homebrew/homebrew-cask-fonts/blob/master/Casks/font-roboto.rb
 cask "font-roboto"
 
+# https://ghostty.org/docs/install/binary#macos
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/g/ghostty.rb
+cask "ghostty"
+
 # https://github.com/desktop/desktop?tab=readme-ov-file#community-releases
 # https://desktop.github.com/
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/g/github.rb

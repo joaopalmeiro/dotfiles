@@ -364,6 +364,11 @@ sdk install java 24.0.2-amzn
 sdk use java 24.0.2-amzn
 ```
 
+### Ghostty
+
+- https://ghostty.org/
+- https://ghostty.org/docs/config
+
 ## Windows
 
 ### Okular
