@@ -368,6 +368,15 @@ sdk use java 24.0.2-amzn
 
 - https://ghostty.org/
 - https://ghostty.org/docs/config
+  - https://ghostty.org/docs/config#reloading-the-configuration
+
+```bash
+ghostty +list-themes
+```
+
+```bash
+cp config $HOME/Library/Application\ Support/com.mitchellh.ghostty/config
+```
 
 ## Windows
 
