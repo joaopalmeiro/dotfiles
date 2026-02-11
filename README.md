@@ -61,6 +61,7 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
   - [miniconda](https://formulae.brew.sh/cask/miniconda)
   - [pipx](https://github.com/pypa/pipx?tab=readme-ov-file#on-macos)
   - [pyenv](https://github.com/pyenv/pyenv?tab=readme-ov-file#homebrew-in-macos)
+- https://www.brewfiles.com/
 
 #### Commands
 
