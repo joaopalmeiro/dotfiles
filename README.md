@@ -370,6 +370,7 @@ sdk use java 24.0.2-amzn
 - https://ghostty.org/
 - https://starship.rs/
 - https://starship.rs/config/
+- https://starship.rs/presets/nerd-font
 - https://ghostty.org/docs/config
   - https://ghostty.org/docs/config#reloading-the-configuration
 - https://fredrikaverpil.github.io/blog/2024/12/04/ghostty-on-macos/
@@ -386,6 +387,10 @@ ghostty +list-themes
 
 ```bash
 touch ~/.hushlogin
+```
+
+```bash
+starship preset nerd-font-symbols -o ~/.config/starship.toml
 ```
 
 ```bash
