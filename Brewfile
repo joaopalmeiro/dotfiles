@@ -4,6 +4,9 @@ tap "homebrew/cask-fonts"
 # https://github.com/sdkman/homebrew-tap
 tap "sdkman/tap"
 
+# https://github.com/fastfetch-cli/fastfetch?tab=readme-ov-file#installation
+brew "fastfetch"
+
 # https://github.com/Schniz/fnm?tab=readme-ov-file#using-homebrew-macoslinux
 brew "fnm"
 
