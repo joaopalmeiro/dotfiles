@@ -1,3 +1,4 @@
+adjust-cell-height = 16
 theme = Elegant
 window-padding-x = 24
-window-padding-y = 16
+window-padding-y = 0

@@ -28,6 +28,9 @@ brew "pyenv"
 # https://github.com/sdkman/homebrew-tap/blob/master/Formula/sdkman-cli.rb
 brew "sdkman-cli"
 
+# https://starship.rs/#quick-install
+brew "starship"
+
 # https://github.com/yt-dlp/yt-dlp/wiki/Installation#homebrew
 brew "yt-dlp"
 

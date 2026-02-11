@@ -364,11 +364,18 @@ sdk install java 24.0.2-amzn
 sdk use java 24.0.2-amzn
 ```
 
-### Ghostty
+### Ghostty + Starship
 
 - https://ghostty.org/
+- https://starship.rs/
+- https://starship.rs/config/
 - https://ghostty.org/docs/config
   - https://ghostty.org/docs/config#reloading-the-configuration
+- https://fredrikaverpil.github.io/blog/2024/12/04/ghostty-on-macos/
+- https://github.com/zerebos/ghostty-config
+- https://itsfoss.com/ghostty-terminal-features/
+- https://michaelbommarito.com/wiki/programming/tools/ghostty-configuration/
+- https://www.bitdoze.com/starship-ghostty-terminal/
 
 ```bash
 ghostty +list-themes
@@ -376,6 +383,12 @@ ghostty +list-themes
 
 ```bash
 cp config $HOME/Library/Application\ Support/com.mitchellh.ghostty/config
+```
+
+```ini
+background-blur = 10
+background-opacity = 0.95
+window-padding-y = 16
 ```
 
 ## Windows
