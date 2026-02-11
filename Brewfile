@@ -31,6 +31,9 @@ brew "sdkman-cli"
 # https://starship.rs/#quick-install
 brew "starship"
 
+# https://github.com/mikefarah/yq?tab=readme-ov-file#install
+brew "yq"
+
 # https://github.com/yt-dlp/yt-dlp/wiki/Installation#homebrew
 brew "yt-dlp"
 

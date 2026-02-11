@@ -52,6 +52,7 @@
   - https://sdkman.io/jdks#amzn
   - https://sdkman.io/sdks
 - https://en.wikipedia.org/wiki/Z_shell
+- https://github.com/rossinek/toml-x
 
 ## References
 
