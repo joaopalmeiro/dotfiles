@@ -380,6 +380,7 @@ sdk use java 24.0.2-amzn
 - https://www.bitdoze.com/starship-ghostty-terminal/
 - https://github.com/ghostty-org/ghostty/discussions/3602
   - https://github.com/ghostty-org/ghostty/discussions/3602#discussioncomment-11682865
+- https://birchtree.me/blog/my-lil-ghosty-terminal-config-2/
 
 ```bash
 ghostty +list-themes
@@ -391,6 +392,10 @@ touch ~/.hushlogin
 
 ```bash
 starship preset nerd-font-symbols -o ~/.config/starship.toml
+```
+
+```bash
+sed -i '' '/^\[gcloud\]/{n;s/$/\ndisabled = true/;}' ~/.config/starship.toml
 ```
 
 ```bash
