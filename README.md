@@ -377,9 +377,15 @@ sdk use java 24.0.2-amzn
 - https://itsfoss.com/ghostty-terminal-features/
 - https://michaelbommarito.com/wiki/programming/tools/ghostty-configuration/
 - https://www.bitdoze.com/starship-ghostty-terminal/
+- https://github.com/ghostty-org/ghostty/discussions/3602
+  - https://github.com/ghostty-org/ghostty/discussions/3602#discussioncomment-11682865
 
 ```bash
 ghostty +list-themes
+```
+
+```bash
+touch ~/.hushlogin
 ```
 
 ```bash

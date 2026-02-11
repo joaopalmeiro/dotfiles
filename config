@@ -1,4 +1,7 @@
 adjust-cell-height = 16
+macos-titlebar-proxy-icon = visible
+macos-titlebar-style = transparent
+macos-window-buttons = visible
 theme = Elegant
 window-padding-x = 24
 window-padding-y = 0
