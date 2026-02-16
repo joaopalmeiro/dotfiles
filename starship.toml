@@ -1,0 +1,37 @@
+[gcloud]
+disabled = true
+
+[custom.ult-wear-battery]
+command = """
+level=$(swift -e 'import IOBluetooth; if let v = (IOBluetoothDevice.pairedDevices() as? [IOBluetoothDevice])?.first(where: { $0.name == "ULT WEAR" && $0.isConnected() })?.value(forKey: "batteryPercentSingle") as? Int, v > 0 { print(v) }')
+if [ -n "$level" ]; then
+  if [ "$level" -eq 100 ]; then
+    icon="󰥈"
+  elif [ "$level" -ge 90 ]; then
+    icon="󰥆"
+  elif [ "$level" -ge 80 ]; then
+    icon="󰥅"
+  elif [ "$level" -ge 70 ]; then
+    icon="󰥄"
+  elif [ "$level" -ge 60 ]; then
+    icon="󰥃"
+  elif [ "$level" -ge 50 ]; then
+    icon="󰥂"
+  elif [ "$level" -ge 40 ]; then
+    icon="󰥁"
+  elif [ "$level" -ge 30 ]; then
+    icon="󰥀"
+  elif [ "$level" -ge 20 ]; then
+    icon="󰤿"
+  else
+    icon="󰤾"
+  fi
+  echo "${icon} ${level}%"
+fi
+"""
+when = true
+description = "Show the battery level for the ULT WEAR (Sony) headphones."
+style = "blue"
+disabled = false
+os = "macos"
+ignore_timeout = true

@@ -371,6 +371,9 @@ sdk use java 24.0.2-amzn
 - https://starship.rs/
 - https://starship.rs/config/
 - https://starship.rs/presets/nerd-font
+  - https://www.nerdfonts.com/cheat-sheet (copy _Icon_)
+- https://starship.rs/config/#custom-commands
+  - https://doc.rust-lang.org/std/env/consts/constant.OS.html
 - https://ghostty.org/docs/config
   - https://ghostty.org/docs/config#reloading-the-configuration
 - https://fredrikaverpil.github.io/blog/2024/12/04/ghostty-on-macos/
@@ -395,8 +398,10 @@ touch ~/.hushlogin
 starship preset nerd-font-symbols -o ~/.config/starship.toml
 ```
 
+Open the Starship configuration file and manually merge it with the `starship.toml` one:
+
 ```bash
-sed -i '' '/^\[gcloud\]/{n;s/$/\ndisabled = true/;}' ~/.config/starship.toml
+code ~/.config/starship.toml
 ```
 
 ```bash

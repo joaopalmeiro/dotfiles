@@ -74,6 +74,10 @@
 
 ## Commands
 
+```bash
+sed -i '' '/^\[gcloud\]/{n;s/$/\ndisabled = true/;}' ~/.config/starship.toml
+```
+
 ### Back up Chrome bookmarks file on macOS
 
 - https://github.com/andrewp-as-is/chrome-bookmarks.py
