@@ -53,6 +53,7 @@
   - https://sdkman.io/sdks
 - https://en.wikipedia.org/wiki/Z_shell
 - https://github.com/rossinek/toml-x
+- https://github.com/utmapp/UTM/discussions/5555
 
 ## References
 
