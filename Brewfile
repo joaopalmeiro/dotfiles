@@ -112,6 +112,10 @@ cask "spotify"
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/t/transmit.rb
 cask "transmit"
 
+# https://docs.getutm.app/installation/macos/
+# https://github.com/Homebrew/homebrew-cask/blob/master/Casks/u/utm.rb
+cask "utm"
+
 # https://github.com/Homebrew/homebrew-cask/blob/master/Casks/v/visual-studio-code.rb
 cask "visual-studio-code"
 
