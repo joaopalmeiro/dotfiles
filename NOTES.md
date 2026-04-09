@@ -54,6 +54,9 @@
 - https://en.wikipedia.org/wiki/Z_shell
 - https://github.com/rossinek/toml-x
 - https://github.com/utmapp/UTM/discussions/5555
+- https://zaiste.net/posts/zsh-get-filename-extension-path/
+- https://sirlisko.com/blog/quick-image-resizing-with-macos-automator
+- https://michaeluloth.com/ffmpeg-reducing-video-file-size/
 
 ## References
 
