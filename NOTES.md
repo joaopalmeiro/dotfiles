@@ -57,6 +57,24 @@
 - https://zaiste.net/posts/zsh-get-filename-extension-path/
 - https://sirlisko.com/blog/quick-image-resizing-with-macos-automator
 - https://michaeluloth.com/ffmpeg-reducing-video-file-size/
+- https://pi-hole.net/
+  - https://github.com/pi-hole/pi-hole
+- https://discourse.ifin.network/t/cursors-remote-tunnel-capability-is-vulnerable-to-malicious-prompt-injection/295
+  - https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/
+  - https://code.visualstudio.com/docs/remote/tunnels
+  - https://www.straiker.ai/blog/nomshub-cursor-remote-tunneling-sandbox-breakout
+  - "You can block these by domain. Microsoft maintains a full list here:"
+  - https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/security#domains
+  - https://global.rel.tunnels.api.visualstudio.com/api/v1/clusters
+- LuLu
+  - https://objective-see.org/products/lulu.html
+  - "Q: Do I need LuLu if I've turned on the built-in macOS firewall?"
+    - "A: Yes! Apple's built-in firewall only blocks incoming connections. LuLu is designed to detect and block unauthorized outgoing connections (...)"
+- https://github.com/objective-see/BlockBlock/
+- https://www.obdev.at/products/littlesnitch/download.html
+  - https://help.obdev.at/littlesnitch6/
+  - https://help.obdev.at/littlesnitch6/concepts-blocklists
+  - https://help.obdev.at/littlesnitch6/adv-lsrules-file-format
 
 ## References
 

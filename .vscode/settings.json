@@ -2,6 +2,7 @@
   "files.associations": {
     ".gitconfig": "ini",
     ".mambarc": "yaml",
+    "*.lsrules": "json",
     "config": "ini",
     "packages.config": "xml"
   }

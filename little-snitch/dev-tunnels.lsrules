@@ -1,0 +1,8 @@
+{
+  "name": "Dev Tunnels",
+  "description": "Blocks dev tunnel domains for VS Code and Cursor.",
+  "denied-remote-domains": [
+    "devtunnels.ms",
+    "rel.tunnels.api.visualstudio.com"
+  ]
+}
