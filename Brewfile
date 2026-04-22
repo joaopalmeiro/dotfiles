@@ -19,6 +19,10 @@ brew "micromamba"
 # https://github.com/Y2Z/monolith?tab=readme-ov-file#installation
 brew "monolith"
 
+# https://formulae.brew.sh/formula/mozjpeg
+# https://github.com/Homebrew/homebrew-core/blob/main/Formula/m/mozjpeg.rb
+brew "mozjpeg"
+
 # https://pandoc.org/installing.html#macos
 brew "pandoc"
 

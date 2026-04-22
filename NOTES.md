@@ -143,6 +143,15 @@ history -p
 rm -rf ~/.zsh_history ~/.zsh_sessions/
 ```
 
+### Compress JPEG images with MozJPEG
+
+- https://github.com/mozilla/mozjpeg/blob/master/usage.txt
+- https://squoosh.app/
+
+```bash
+djpeg <IMG>.jpg | cjpeg -quality 75 > <IMG>_small.jpg
+```
+
 ## Snippets
 
 ### `.vscode/settings.json`
