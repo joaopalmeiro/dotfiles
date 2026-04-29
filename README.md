@@ -4,6 +4,22 @@ A collection of dotfiles and related personal notes.
 
 ## macOS
 
+### act
+
+#### Rancher Desktop
+
+- https://nektosact.com/usage/custom_engine.html
+- https://docs.rancherdesktop.io/ui/preferences/application/general/
+- https://github.com/feedzai/feedzai-altair-theme/blob/master/.github/workflows/release.yml
+
+```bash
+DOCKER_HOST="unix://$HOME/.rd/docker.sock" docker pull catthehacker/ubuntu:act-latest
+```
+
+```bash
+DOCKER_HOST="unix://$HOME/.rd/docker.sock" act -W .github/workflows/release.yml --container-daemon-socket -
+```
+
 ### Zed
 
 - Documentation:
