@@ -65,6 +65,10 @@ zed --version
 cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 ```
 
+```bash
+xargs --max-lines=1 code --install-extension < vscode_extensions.txt
+```
+
 ### Homebrew
 
 - https://docs.brew.sh/Manpage#environment

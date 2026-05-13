@@ -1,0 +1,7 @@
+editorconfig.editorconfig
+joaopalmeiro.markdown-code-block-utils
+jsynowiec.vscode-insertdatestring
+nhoizey.gremlins
+shardulm94.trailing-spaces
+stkb.rewrap
+tyriar.sort-lines
