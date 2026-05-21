@@ -15,7 +15,6 @@ redhat.vscode-xml@0.29.2
 redhat.vscode-yaml@1.23.0
 rust-lang.rust-analyzer@0.3.2896
 shardulm94.trailing-spaces@0.4.1
-stkb.rewrap@1.16.3
 tamasfe.even-better-toml@0.21.2
 tyriar.sort-lines@1.12.0
 yoavbls.pretty-ts-errors@0.8.7
