@@ -53,6 +53,7 @@ zed --version
 - https://code.visualstudio.com/docs/getstarted/settings#_settings-file-locations
 - [Meu VSCode minimalista (extensões, temas e config)](https://youtu.be/TW3KoPkuWEA?feature=shared) by Rocketseat
 - https://lucasprag.com/posts/underrated-vscode-feature-native-tabs/
+- https://www.nicoespeon.com/en/2020/10/prevent-vscode-extensions-automatic-updates/
 
 #### Themes
 

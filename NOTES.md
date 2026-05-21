@@ -100,6 +100,10 @@
 sed -i '' '/^\[gcloud\]/{n;s/$/\ndisabled = true/;}' ~/.config/starship.toml
 ```
 
+```bash
+code --list-extensions --show-versions
+```
+
 ### Back up Chrome bookmarks file on macOS
 
 - https://github.com/andrewp-as-is/chrome-bookmarks.py
