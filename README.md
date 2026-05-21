@@ -70,6 +70,8 @@ cp vscode_settings.json ~/Library/Application\ Support/Code/User/settings.json
 xargs --max-lines=1 code --install-extension < vscode_extensions.txt
 ```
 
+Run the _Extensions: Check for Extension Updates_ command from the VS Code _Command Palette_ to check which extensions have updates available.
+
 ### Homebrew
 
 - https://docs.brew.sh/Manpage#environment
