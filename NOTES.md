@@ -75,6 +75,9 @@
   - https://help.obdev.at/littlesnitch6/
   - https://help.obdev.at/littlesnitch6/concepts-blocklists
   - https://help.obdev.at/littlesnitch6/adv-lsrules-file-format
+- https://nachtimwald.com/2024/12/20/zsh-disable-history/
+- https://torgeir.dev/2023/10/zsh-history-across-sessions/
+- https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
 
 ## References
 
@@ -102,6 +105,10 @@ sed -i '' '/^\[gcloud\]/{n;s/$/\ndisabled = true/;}' ~/.config/starship.toml
 
 ```bash
 code --list-extensions --show-versions
+```
+
+```bash
+man zshbuiltins
 ```
 
 ### Back up Chrome bookmarks file on macOS

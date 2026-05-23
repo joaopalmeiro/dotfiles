@@ -431,6 +431,14 @@ code ~/.config/starship.toml
 cp config $HOME/Library/Application\ Support/com.mitchellh.ghostty/config
 ```
 
+### Zsh
+
+#### Clear history
+
+```bash
+rm -f ~/.zsh_history && SAVEHIST=0
+```
+
 ## Windows
 
 ### Okular
