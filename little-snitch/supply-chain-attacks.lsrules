@@ -2,7 +2,6 @@
   "name": "Supply Chain Attacks",
   "description": "Blocks domains from documented supply chain attacks.",
   "denied-remote-domains": [
-    // https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
     "flipboxstudio.info"
   ]
 }
