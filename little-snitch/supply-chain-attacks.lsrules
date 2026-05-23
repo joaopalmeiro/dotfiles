@@ -2,6 +2,11 @@
   "name": "Supply Chain Attacks",
   "description": "Blocks domains from documented supply chain attacks.",
   "denied-remote-domains": [
-    "flipboxstudio.info"
+    "flipboxstudio.info",
+
+    "api.masscan.cloud",
+    "filev2.getsession.org",
+    "git-tanstack.com",
+    "seed1.getsession.org"
   ]
 }

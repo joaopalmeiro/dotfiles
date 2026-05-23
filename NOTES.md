@@ -77,7 +77,9 @@
   - https://help.obdev.at/littlesnitch6/adv-lsrules-file-format
 - https://nachtimwald.com/2024/12/20/zsh-disable-history/
 - https://torgeir.dev/2023/10/zsh-history-across-sessions/
-- https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
+- Supply chain attacks:
+  - https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
+  - https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-supply-chain-attack-hits-the-npm-ecosystem
 
 ## References
 
