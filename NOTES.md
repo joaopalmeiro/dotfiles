@@ -80,6 +80,7 @@
 - Supply chain attacks:
   - https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
   - https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-supply-chain-attack-hits-the-npm-ecosystem
+- https://stackoverflow.com/questions/42626065/vs-code-how-to-rollback-extension-install-specific-extension-version
 
 ## References
 
