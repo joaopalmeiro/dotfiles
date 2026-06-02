@@ -81,6 +81,7 @@
   - https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
   - https://www.stepsecurity.io/blog/mini-shai-hulud-is-back-a-self-spreading-supply-chain-attack-hits-the-npm-ecosystem
 - https://stackoverflow.com/questions/42626065/vs-code-how-to-rollback-extension-install-specific-extension-version
+- https://github.com/Homebrew/homebrew-brew-vulns
 
 ## References
 
@@ -112,6 +113,10 @@ code --list-extensions --show-versions
 
 ```bash
 man zshbuiltins
+```
+
+```bash
+brew vulns
 ```
 
 ### Back up Chrome bookmarks file on macOS
@@ -170,7 +175,7 @@ djpeg <IMG>.jpg | cjpeg -quality 75 > <IMG>_small.jpg
 
 ### `.vscode/settings.json`
 
-```jsonc
+```json
 {
   "git.enabled": true,
   "editor.formatOnSave": true
